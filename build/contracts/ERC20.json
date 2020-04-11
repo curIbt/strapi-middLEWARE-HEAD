@@ -8842,3 +8842,382 @@
                                                   "type": "bytes32",
                                                   "value": "hashedPassword"
                                                 },
+                                                "id": 614,
+                                                "name": "Identifier",
+                                                "src": "6284:14:0"
+                                              }
+                                            ],
+                                            "id": 615,
+                                            "name": "IndexAccess",
+                                            "src": "6280:19:0"
+                                          }
+                                        ],
+                                        "id": 616,
+                                        "name": "MemberAccess",
+                                        "src": "6280:32:0"
+                                      }
+                                    ],
+                                    "id": 617,
+                                    "name": "MemberAccess",
+                                    "src": "6280:41:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "isConstant": false,
+                                      "isLValue": true,
+                                      "isPure": false,
+                                      "lValueRequested": false,
+                                      "member_name": "qty",
+                                      "referencedDeclaration": 80,
+                                      "type": "uint256"
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": true,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "type": "struct GenericSwap.TX storage ref"
+                                        },
+                                        "children": [
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+                                              "referencedDeclaration": 65,
+                                              "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                              "value": "txs"
+                                            },
+                                            "id": 618,
+                                            "name": "Identifier",
+                                            "src": "6322:3:0"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+                                              "referencedDeclaration": 564,
+                                              "type": "bytes32",
+                                              "value": "hashedPassword"
+                                            },
+                                            "id": 619,
+                                            "name": "Identifier",
+                                            "src": "6326:14:0"
+                                          }
+                                        ],
+                                        "id": 620,
+                                        "name": "IndexAccess",
+                                        "src": "6322:19:0"
+                                      }
+                                    ],
+                                    "id": 621,
+                                    "name": "MemberAccess",
+                                    "src": "6322:23:0"
+                                  }
+                                ],
+                                "id": 622,
+                                "name": "FunctionCall",
+                                "src": "6280:66:0"
+                              }
+                            ],
+                            "id": 623,
+                            "name": "ExpressionStatement",
+                            "src": "6280:66:0"
+                          }
+                        ],
+                        "id": 624,
+                        "name": "Block",
+                        "src": "6266:91:0"
+                      }
+                    ],
+                    "id": 625,
+                    "name": "IfStatement",
+                    "src": "6066:291:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "isStructConstructorCall": false,
+                          "lValueRequested": false,
+                          "names": [
+                            null
+                          ],
+                          "type": "tuple()",
+                          "type_conversion": false
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": [
+                                {
+                                  "typeIdentifier": "t_address",
+                                  "typeString": "address"
+                                },
+                                {
+                                  "typeIdentifier": "t_string_storage",
+                                  "typeString": "string storage ref"
+                                },
+                                {
+                                  "typeIdentifier": "t_uint256",
+                                  "typeString": "uint256"
+                                },
+                                {
+                                  "typeIdentifier": "t_bytes32",
+                                  "typeString": "bytes32"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 132,
+                              "type": "function (address,string memory,uint256,bytes32)",
+                              "value": "Refunded"
+                            },
+                            "id": 626,
+                            "name": "Identifier",
+                            "src": "6366:8:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "tradingParty",
+                              "referencedDeclaration": 74,
+                              "type": "address"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "type": "struct GenericSwap.TX storage ref"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 65,
+                                      "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                      "value": "txs"
+                                    },
+                                    "id": 627,
+                                    "name": "Identifier",
+                                    "src": "6375:3:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 564,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 628,
+                                    "name": "Identifier",
+                                    "src": "6379:14:0"
+                                  }
+                                ],
+                                "id": 629,
+                                "name": "IndexAccess",
+                                "src": "6375:19:0"
+                              }
+                            ],
+                            "id": 630,
+                            "name": "MemberAccess",
+                            "src": "6375:32:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "ccy",
+                              "referencedDeclaration": 78,
+                              "type": "string storage ref"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "type": "struct GenericSwap.TX storage ref"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 65,
+                                      "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                      "value": "txs"
+                                    },
+                                    "id": 631,
+                                    "name": "Identifier",
+                                    "src": "6409:3:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 564,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 632,
+                                    "name": "Identifier",
+                                    "src": "6413:14:0"
+                                  }
+                                ],
+                                "id": 633,
+                                "name": "IndexAccess",
+                                "src": "6409:19:0"
+                              }
+                            ],
+                            "id": 634,
+                            "name": "MemberAccess",
+                            "src": "6409:23:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "qty",
+                              "referencedDeclaration": 80,
+                              "type": "uint256"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "type": "struct GenericSwap.TX storage ref"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 65,
+                                      "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                      "value": "txs"
+                                    },
+                                    "id": 635,
+                                    "name": "Identifier",
+                                    "src": "6434:3:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 564,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 636,
+                                    "name": "Identifier",
+                                    "src": "6438:14:0"
+                                  }
+                                ],
+                                "id": 637,
+                                "name": "IndexAccess",
+                                "src": "6434:19:0"
+                              }
+                            ],
+                            "id": 638,
+                            "name": "MemberAccess",
+                            "src": "6434:23:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 564,
+                              "type": "bytes32",
+                              "value": "hashedPassword"
+                            },
+                            "id": 639,
+                            "name": "Identifier",
+                            "src": "6459:14:0"
+                          }
+                        ],
+                        "id": 640,
+                        "name": "FunctionCall",
+                        "src": "6366:108:0"
+                      }
+                    ],
+                    "id": 641,
+                    "name": "ExpressionStatement",
+                    "src": "6366:108:0"
+                  }
+                ],
+                "id": 642,
+                "name": "Block",
+                "src": "5953:528:0"
+              }
+            ],
+            "id": 643,
+            "name": "FunctionDefinition",
+            "src": "5880:601:0"
+          }
+        ],
+        "id": 644,
+        "name": "ContractDefinition",
+        "src": "565:5920:0"
+      }
+    ],
+    "id": 645,
+    "name": "SourceUnit",
+    "src": "0:6485:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.18+commit.9cf6e910.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "1.0.1",
+  "updatedAt": "2017-12-17T15:12:16.054Z"
+}

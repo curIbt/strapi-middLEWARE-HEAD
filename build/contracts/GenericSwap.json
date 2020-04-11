@@ -1,0 +1,32 @@
+{
+  "contractName": "GenericSwap",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "ccyName",
+          "type": "string"
+        },
+        {
+          "name": "qty",
+          "type": "uint256"
+        },
+        {
+          "name": "hashedPassword",
+          "type": "bytes32"
+        },
+        {
+          "name": "cp",
+          "type": "address"
+        },
+        {
+          "name": "exp",
+          "type": "uint256"
+        }
+      ],
+      "name": "publish",
+      "outputs": [],
+      "payable": true,
+      "stateMutability": "payable",
+      "type": "function"
