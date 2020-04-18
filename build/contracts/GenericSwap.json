@@ -80,4 +80,53 @@
         }
       ],
       "name": "txs",
-      "out
+      "outputs": [
+        {
+          "name": "tradingParty",
+          "type": "address"
+        },
+        {
+          "name": "counterParty",
+          "type": "address"
+        },
+        {
+          "name": "ccy",
+          "type": "string"
+        },
+        {
+          "name": "qty",
+          "type": "uint256"
+        },
+        {
+          "name": "expirationDate",
+          "type": "uint256"
+        },
+        {
+          "name": "initDate",
+          "type": "uint256"
+        },
+        {
+          "name": "exist",
+          "type": "bool"
+        },
+        {
+          "name": "done",
+          "type": "bool"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "secret",
+          "type": "string"
+        }
+      ],
+      "name": "claim",
+      "outputs": [],
+      "payable": false,
+    
