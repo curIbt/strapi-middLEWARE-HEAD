@@ -129,4 +129,52 @@
       "name": "claim",
       "outputs": [],
       "payable": false,
-    
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "name": "tradingParty",
+          "type": "address"
+        },
+        {
+          "indexed": false,
+          "name": "counterParty",
+          "type": "address"
+        },
+        {
+          "indexed": false,
+          "name": "ccy",
+          "type": "string"
+        },
+        {
+          "indexed": false,
+          "name": "qty",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "name": "hashedPassword",
+          "type": "bytes32"
+        },
+        {
+          "indexed": false,
+          "name": "expirationDate",
+          "type": "uint256"
+        }
+      ],
+      "name": "Initiated",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "
