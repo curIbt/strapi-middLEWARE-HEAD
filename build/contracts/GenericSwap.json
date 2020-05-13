@@ -223,4 +223,33 @@
         {
           "indexed": false,
           "name": "hashedPassword",
-          "type": "byte
+          "type": "bytes32"
+        }
+      ],
+      "name": "Refunded",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "name": "symbol",
+          "type": "string"
+        },
+        {
+          "indexed": false,
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "indexed": false,
+          "name": "tokenAddress",
+          "type": "address"
+        }
+      ],
+      "name": "CurrencyAdded",
+      "type": "event"
+    }
+  ],
+  "bytecode": "0x6060604052341561000f57600080fd5b336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550611b6d8061005e6000396000f30060606040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806321a8528b14610072578063512a5a33146101025780637249fbb6146101cc578063986ba392146101f3578063f3fe12c914610341575b600080fd5b610100600480803590602001908201803590602001908080601f0
