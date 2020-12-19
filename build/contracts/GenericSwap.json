@@ -335,4 +335,37 @@
                         "attributes": {
                           "name": "uint",
                           "type": "uint256"
-      
+                        },
+                        "id": 2,
+                        "name": "ElementaryTypeName",
+                        "src": "65:4:0"
+                      }
+                    ],
+                    "id": 3,
+                    "name": "VariableDeclaration",
+                    "src": "65:11:0"
+                  }
+                ],
+                "id": 4,
+                "name": "ParameterList",
+                "src": "64:13:0"
+              }
+            ],
+            "id": 5,
+            "name": "FunctionDefinition",
+            "src": "21:57:0"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "constant": true,
+              "implemented": false,
+              "isConstructor": false,
+              "modifiers": [
+                null
+              ],
+              "name": "balanceOf",
+              "payable": false,
+              "scope": 59,
+              "stateMutability": "view",
+              "superFuncti
