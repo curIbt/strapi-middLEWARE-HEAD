@@ -396,4 +396,30 @@
                         "src": "103:7:0"
                       }
                     ],
- 
+                    "id": 7,
+                    "name": "VariableDeclaration",
+                    "src": "103:11:0"
+                  }
+                ],
+                "id": 8,
+                "name": "ParameterList",
+                "src": "102:13:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "value",
+                      "scope": 12,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint",
+                          "type": "uint256
