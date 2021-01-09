@@ -422,4 +422,37 @@
                       {
                         "attributes": {
                           "name": "uint",
-                          "type": "uint256
+                          "type": "uint256"
+                        },
+                        "id": 9,
+                        "name": "ElementaryTypeName",
+                        "src": "137:4:0"
+                      }
+                    ],
+                    "id": 10,
+                    "name": "VariableDeclaration",
+                    "src": "137:10:0"
+                  }
+                ],
+                "id": 11,
+                "name": "ParameterList",
+                "src": "136:12:0"
+              }
+            ],
+            "id": 12,
+            "name": "FunctionDefinition",
+            "src": "84:65:0"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "constant": true,
+              "implemented": false,
+              "isConstructor": false,
+              "modifiers": [
+                null
+              ],
+              "name": "allowance",
+              "payable": false,
+              "scope": 59,
+              "stateMutabi
