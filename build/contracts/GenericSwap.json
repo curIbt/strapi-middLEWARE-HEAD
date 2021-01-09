@@ -507,4 +507,34 @@
                         },
                         "id": 15,
                         "name": "ElementaryTypeName",
-                        "src"
+                        "src": "189:7:0"
+                      }
+                    ],
+                    "id": 16,
+                    "name": "VariableDeclaration",
+                    "src": "189:15:0"
+                  }
+                ],
+                "id": 17,
+                "name": "ParameterList",
+                "src": "173:32:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "_allowance",
+                      "scope": 21,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint",
+                          "type": "uint256"
+              
