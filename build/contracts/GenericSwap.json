@@ -537,4 +537,38 @@
                         "attributes": {
                           "name": "uint",
                           "type": "uint256"
-              
+                        },
+                        "id": 18,
+                        "name": "ElementaryTypeName",
+                        "src": "227:4:0"
+                      }
+                    ],
+                    "id": 19,
+                    "name": "VariableDeclaration",
+                    "src": "227:15:0"
+                  }
+                ],
+                "id": 20,
+                "name": "ParameterList",
+                "src": "226:17:0"
+              }
+            ],
+            "id": 21,
+            "name": "FunctionDefinition",
+            "src": "155:89:0"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "constant": false,
+              "implemented": false,
+              "isConstructor": false,
+              "modifiers": [
+                null
+              ],
+              "name": "transfer",
+              "payable": false,
+              "scope": 59,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
