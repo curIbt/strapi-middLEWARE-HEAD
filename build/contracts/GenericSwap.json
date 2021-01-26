@@ -744,4 +744,33 @@
                   },
                   {
                     "attributes": {
-                      "const
+                      "constant": false,
+                      "name": "value",
+                      "scope": 41,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint",
+                          "type": "uint256"
+                        },
+                        "id": 35,
+                        "name": "ElementaryTypeName",
+                        "src": "371:4:0"
+                      }
+                    ],
+                    "id": 36,
+                    "name": "VariableDeclaration",
+                    "src": "371:10:0"
+                  }
+                ],
+                "id": 37,
+                "name": "ParameterList",
+                "src": "344:38:0"
+              },
+   
