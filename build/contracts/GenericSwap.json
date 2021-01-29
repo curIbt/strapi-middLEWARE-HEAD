@@ -803,4 +803,37 @@
                   }
                 ],
                 "id": 40,
-                "name": "Paramete
+                "name": "ParameterList",
+                "src": "398:9:0"
+              }
+            ],
+            "id": 41,
+            "name": "FunctionDefinition",
+            "src": "323:85:0"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "constant": false,
+              "implemented": false,
+              "isConstructor": false,
+              "modifiers": [
+                null
+              ],
+              "name": "approve",
+              "payable": false,
+              "scope": 59,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "spender",
+                      "scope": 50,
+                      "stateVariable": false,
+                      
