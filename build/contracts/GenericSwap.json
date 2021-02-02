@@ -836,4 +836,30 @@
                       "name": "spender",
                       "scope": 50,
                       "stateVariable": false,
-                      
+                      "storageLocation": "default",
+                      "type": "address",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "address",
+                          "type": "address"
+                        },
+                        "id": 42,
+                        "name": "ElementaryTypeName",
+                        "src": "431:7:0"
+                      }
+                    ],
+                    "id": 43,
+                    "name": "VariableDeclaration",
+                    "src": "431:15:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "value",
+                      "scope": 50,
+                      "stateVariable": false,
+                      "storageLocatio
