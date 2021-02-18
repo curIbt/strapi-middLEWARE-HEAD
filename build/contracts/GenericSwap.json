@@ -892,4 +892,32 @@
                   {
                     "attributes": {
                       "constant": false,
-        
+                      "name": "ok",
+                      "scope": 50,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "bool",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "bool",
+                          "type": "bool"
+                        },
+                        "id": 47,
+                        "name": "ElementaryTypeName",
+                        "src": "476:4:0"
+                      }
+                    ],
+                    "id": 48,
+                    "name": "VariableDeclaration",
+                    "src": "476:7:0"
+                  }
+                ],
+                "id": 49,
+                "name": "ParameterList",
+                "src": "475:9:0"
+              }
+          
