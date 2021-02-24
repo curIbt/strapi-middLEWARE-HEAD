@@ -1042,4 +1042,40 @@
           "fullyImplemented": true,
           "linearizedBaseContracts": [
             644
-          
+          ],
+          "name": "GenericSwap",
+          "scope": 645
+        },
+        "children": [
+          {
+            "attributes": {
+              "constant": false,
+              "name": "owner",
+              "scope": 644,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "address",
+              "value": null,
+              "visibility": "internal"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "name": "address",
+                  "type": "address"
+                },
+                "id": 60,
+                "name": "ElementaryTypeName",
+                "src": "608:7:0"
+              }
+            ],
+            "id": 61,
+            "name": "VariableDeclaration",
+            "src": "608:13:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "name": "txs",
+              "scope": 644,
+              "stateVariable": true,
