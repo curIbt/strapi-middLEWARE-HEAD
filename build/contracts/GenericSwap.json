@@ -1005,4 +1005,41 @@
                           "name": "uint",
                           "type": "uint256"
                         },
-                  
+                        "id": 55,
+                        "name": "ElementaryTypeName",
+                        "src": "548:4:0"
+                      }
+                    ],
+                    "id": 56,
+                    "name": "VariableDeclaration",
+                    "src": "548:10:0"
+                  }
+                ],
+                "id": 57,
+                "name": "ParameterList",
+                "src": "505:54:0"
+              }
+            ],
+            "id": 58,
+            "name": "EventDefinition",
+            "src": "491:69:0"
+          }
+        ],
+        "id": 59,
+        "name": "ContractDefinition",
+        "src": "0:562:0"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            644
+          
