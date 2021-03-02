@@ -1079,3 +1079,31 @@
               "name": "txs",
               "scope": 644,
               "stateVariable": true,
+              "storageLocation": "default",
+              "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+              "value": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "bytes32",
+                      "type": "bytes32"
+                    },
+                    "id": 62,
+                    "name": "ElementaryTypeName",
+                    "src": "637:7:0"
+                  },
+                  {
+                    "attributes": {
+                      "contractScope": null,
+                      "name": "TX",
+                      "referencedDeclaration": 89,
+                      "type": "struct GenericSwap.TX storage pointer"
+                    },
+            
