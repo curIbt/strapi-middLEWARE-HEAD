@@ -1137,4 +1137,32 @@
                   "type": "mapping(string memory => struct GenericSwap.Currency storage ref)"
                 },
                 "children": [
-   
+                  {
+                    "attributes": {
+                      "name": "string",
+                      "type": "string storage pointer"
+                    },
+                    "id": 66,
+                    "name": "ElementaryTypeName",
+                    "src": "678:6:0"
+                  },
+                  {
+                    "attributes": {
+                      "contractScope": null,
+                      "name": "Currency",
+                      "referencedDeclaration": 98,
+                      "type": "struct GenericSwap.Currency storage pointer"
+                    },
+                    "id": 67,
+                    "name": "UserDefinedTypeName",
+                    "src": "688:8:0"
+                  }
+                ],
+                "id": 68,
+                "name": "Mapping",
+                "src": "669:28:0"
+              }
+            ],
+            "id": 69,
+            "name": "VariableDeclaration",
+            "src": "669:33:0
