@@ -1106,4 +1106,35 @@
                       "referencedDeclaration": 89,
                       "type": "struct GenericSwap.TX storage pointer"
                     },
-            
+                    "id": 63,
+                    "name": "UserDefinedTypeName",
+                    "src": "648:2:0"
+                  }
+                ],
+                "id": 64,
+                "name": "Mapping",
+                "src": "628:23:0"
+              }
+            ],
+            "id": 65,
+            "name": "VariableDeclaration",
+            "src": "628:34:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "name": "ccys",
+              "scope": 644,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "mapping(string memory => struct GenericSwap.Currency storage ref)",
+              "value": null,
+              "visibility": "internal"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "type": "mapping(string memory => struct GenericSwap.Currency storage ref)"
+                },
+                "children": [
+   
