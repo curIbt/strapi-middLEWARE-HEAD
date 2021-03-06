@@ -1202,4 +1202,32 @@
               "visibility": "public"
             },
             "children": [
- 
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "tradingParty",
+                  "scope": 89,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "address",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "address",
+                      "type": "address"
+                    },
+                    "id": 73,
+                    "name": "ElementaryTypeName",
+                    "src": "813:7:0"
+                  }
+                ],
+                "id": 74,
+                "name": "VariableDeclaration",
+                "src": "813:20:0"
+              },
+              {
+                "attributes": {
+                  "constant": f
