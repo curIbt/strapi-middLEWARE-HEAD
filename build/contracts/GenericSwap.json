@@ -1165,4 +1165,41 @@
             ],
             "id": 69,
             "name": "VariableDeclaration",
-            "src": "669:33:0
+            "src": "669:33:0"
+          },
+          {
+            "attributes": {
+              "canonicalName": "GenericSwap.ccyType",
+              "name": "ccyType"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "name": "Token"
+                },
+                "id": 70,
+                "name": "EnumValue",
+                "src": "735:5:0"
+              },
+              {
+                "attributes": {
+                  "name": "Native"
+                },
+                "id": 71,
+                "name": "EnumValue",
+                "src": "742:6:0"
+              }
+            ],
+            "id": 72,
+            "name": "EnumDefinition",
+            "src": "722:27:0"
+          },
+          {
+            "attributes": {
+              "canonicalName": "GenericSwap.TX",
+              "name": "TX",
+              "scope": 644,
+              "visibility": "public"
+            },
+            "children": [
+ 
