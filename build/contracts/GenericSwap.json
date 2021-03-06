@@ -1260,4 +1260,33 @@
                   "name": "ccy",
                   "scope": 89,
                   "stateVariable": false,
-                  "storageLocation": 
+                  "storageLocation": "default",
+                  "type": "string storage pointer",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "string",
+                      "type": "string storage pointer"
+                    },
+                    "id": 77,
+                    "name": "ElementaryTypeName",
+                    "src": "865:6:0"
+                  }
+                ],
+                "id": 78,
+                "name": "VariableDeclaration",
+                "src": "865:10:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "qty",
+                  "scope": 89,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "uint256",
+                  "value": null,
+                  "visibility"
