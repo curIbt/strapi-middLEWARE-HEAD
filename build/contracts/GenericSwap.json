@@ -1230,4 +1230,34 @@
               },
               {
                 "attributes": {
-                  "constant": f
+                  "constant": false,
+                  "name": "counterParty",
+                  "scope": 89,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "address",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "address",
+                      "type": "address"
+                    },
+                    "id": 75,
+                    "name": "ElementaryTypeName",
+                    "src": "839:7:0"
+                  }
+                ],
+                "id": 76,
+                "name": "VariableDeclaration",
+                "src": "839:20:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "ccy",
+                  "scope": 89,
+                  "stateVariable": false,
+                  "storageLocation": 
