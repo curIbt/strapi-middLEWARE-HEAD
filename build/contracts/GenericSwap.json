@@ -1289,4 +1289,34 @@
                   "storageLocation": "default",
                   "type": "uint256",
                   "value": null,
-                  "visibility"
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "uint256",
+                      "type": "uint256"
+                    },
+                    "id": 79,
+                    "name": "ElementaryTypeName",
+                    "src": "881:7:0"
+                  }
+                ],
+                "id": 80,
+                "name": "VariableDeclaration",
+                "src": "881:11:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "expirationDate",
+                  "scope": 89,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "uint256",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
