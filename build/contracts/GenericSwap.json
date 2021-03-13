@@ -1380,4 +1380,35 @@
                     "src": "942:4:0"
                   }
                 ],
-                "id":
+                "id": 86,
+                "name": "VariableDeclaration",
+                "src": "942:10:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "done",
+                  "scope": 89,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "bool",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "bool",
+                      "type": "bool"
+                    },
+                    "id": 87,
+                    "name": "ElementaryTypeName",
+                    "src": "958:4:0"
+                  }
+                ],
+                "id": 88,
+                "name": "VariableDeclaration",
+                "src": "958:9:0"
+              }
+            ],
+            
