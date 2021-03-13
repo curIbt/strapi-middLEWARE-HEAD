@@ -1320,3 +1320,33 @@
                 "children": [
                   {
                     "attributes": {
+                      "name": "uint",
+                      "type": "uint256"
+                    },
+                    "id": 81,
+                    "name": "ElementaryTypeName",
+                    "src": "898:4:0"
+                  }
+                ],
+                "id": 82,
+                "name": "VariableDeclaration",
+                "src": "898:19:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "initDate",
+                  "scope": 89,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "uint256",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "uint",
+                      "type": "uint256"
+                    },
+     
