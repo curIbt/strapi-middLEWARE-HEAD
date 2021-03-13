@@ -1349,4 +1349,35 @@
                       "name": "uint",
                       "type": "uint256"
                     },
-     
+                    "id": 83,
+                    "name": "ElementaryTypeName",
+                    "src": "923:4:0"
+                  }
+                ],
+                "id": 84,
+                "name": "VariableDeclaration",
+                "src": "923:13:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "exist",
+                  "scope": 89,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "bool",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "bool",
+                      "type": "bool"
+                    },
+                    "id": 85,
+                    "name": "ElementaryTypeName",
+                    "src": "942:4:0"
+                  }
+                ],
+                "id":
