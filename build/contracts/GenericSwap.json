@@ -1411,4 +1411,33 @@
                 "src": "958:9:0"
               }
             ],
-            
+            "id": 89,
+            "name": "StructDefinition",
+            "src": "797:177:0"
+          },
+          {
+            "attributes": {
+              "canonicalName": "GenericSwap.Currency",
+              "name": "Currency",
+              "scope": 644,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "name",
+                  "scope": 98,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "string storage pointer",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "string",
+                      "type": "string storage pointer"
+                    },
+                 
