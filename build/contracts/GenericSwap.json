@@ -1440,4 +1440,33 @@
                       "name": "string",
                       "type": "string storage pointer"
                     },
-                 
+                    "id": 90,
+                    "name": "ElementaryTypeName",
+                    "src": "1059:6:0"
+                  }
+                ],
+                "id": 91,
+                "name": "VariableDeclaration",
+                "src": "1059:11:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "cType",
+                  "scope": 98,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "enum GenericSwap.ccyType",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "contractScope": null,
+                      "name": "ccyType",
+                      "referencedDeclaration": 72,
+                      "type": "enum GenericSwap.ccyType"
+                    },
+                    "id": 92,
+ 
