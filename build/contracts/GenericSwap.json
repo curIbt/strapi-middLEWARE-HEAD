@@ -1531,4 +1531,33 @@
               }
             ],
             "id": 98,
-         
+            "name": "StructDefinition",
+            "src": "1037:101:0"
+          },
+          {
+            "attributes": {
+              "anonymous": false,
+              "name": "Initiated"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": false,
+                      "name": "tradingParty",
+                      "scope": 112,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "address",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "address",
+                          "type": "address"
+                        },
+                
