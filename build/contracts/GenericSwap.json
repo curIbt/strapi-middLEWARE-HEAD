@@ -1499,4 +1499,36 @@
                     "src": "1095:7:0"
                   }
                 ],
-               
+                "id": 95,
+                "name": "VariableDeclaration",
+                "src": "1095:20:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "exist",
+                  "scope": 98,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "bool",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "bool",
+                      "type": "bool"
+                    },
+                    "id": 96,
+                    "name": "ElementaryTypeName",
+                    "src": "1121:4:0"
+                  }
+                ],
+                "id": 97,
+                "name": "VariableDeclaration",
+                "src": "1121:10:0"
+              }
+            ],
+            "id": 98,
+         
