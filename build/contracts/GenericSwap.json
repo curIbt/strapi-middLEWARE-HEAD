@@ -1469,4 +1469,34 @@
                       "type": "enum GenericSwap.ccyType"
                     },
                     "id": 92,
- 
+                    "name": "UserDefinedTypeName",
+                    "src": "1076:7:0"
+                  }
+                ],
+                "id": 93,
+                "name": "VariableDeclaration",
+                "src": "1076:13:0"
+              },
+              {
+                "attributes": {
+                  "constant": false,
+                  "name": "tokenAddress",
+                  "scope": 98,
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "type": "address",
+                  "value": null,
+                  "visibility": "internal"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "address",
+                      "type": "address"
+                    },
+                    "id": 94,
+                    "name": "ElementaryTypeName",
+                    "src": "1095:7:0"
+                  }
+                ],
+               
