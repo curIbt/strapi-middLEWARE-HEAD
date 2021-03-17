@@ -1612,4 +1612,30 @@
                       {
                         "attributes": {
                           "name": "string",
+                          "type": "string storage pointer"
+                        },
+                        "id": 103,
+                        "name": "ElementaryTypeName",
+                        "src": "1218:6:0"
+                      }
+                    ],
+                    "id": 104,
+                    "name": "VariableDeclaration",
+                    "src": "1218:10:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": false,
+                      "name": "qty",
+                      "scope": 112,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
                          
