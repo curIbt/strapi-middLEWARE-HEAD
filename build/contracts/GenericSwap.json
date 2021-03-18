@@ -1689,4 +1689,36 @@
                       "value": null,
                       "visibility": "internal"
                     },
-                 
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 109,
+                        "name": "ElementaryTypeName",
+                        "src": "1271:7:0"
+                      }
+                    ],
+                    "id": 110,
+                    "name": "VariableDeclaration",
+                    "src": "1271:22:0"
+                  }
+                ],
+                "id": 111,
+                "name": "ParameterList",
+                "src": "1173:121:0"
+              }
+            ],
+            "id": 112,
+            "name": "EventDefinition",
+            "src": "1158:137:0"
+          },
+          {
+            "attributes": {
+              "anonymous": false,
+              "name": "Claimed"
+            },
+            "children": [
+              {
+                "children": [
