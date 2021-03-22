@@ -1773,4 +1773,31 @@
                       }
                     ],
                     "id": 116,
-  
+                    "name": "VariableDeclaration",
+                    "src": "1337:10:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": false,
+                      "name": "qty",
+                      "scope": 122,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 117,
+                        "name": "ElementaryTypeName",
+                        "src": "1349:7:0"
+                      }
+                    ],
+                    "id": 118,
+                  
