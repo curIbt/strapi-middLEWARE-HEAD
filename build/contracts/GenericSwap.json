@@ -1800,4 +1800,29 @@
                       }
                     ],
                     "id": 118,
-                  
+                    "name": "VariableDeclaration",
+                    "src": "1349:11:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": false,
+                      "name": "secret",
+                      "scope": 122,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "string memory",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "string",
+                          "type": "string storage pointer"
+                        },
+                        "id": 119,
+                        "name": "ElementaryTypeName",
+                        "src": "1362:6:0"
+                      }
+ 
