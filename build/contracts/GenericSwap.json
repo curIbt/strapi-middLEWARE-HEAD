@@ -1858,4 +1858,28 @@
                       "storageLocation": "default",
                       "type": "address",
                       "value": null,
-        
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "address",
+                          "type": "address"
+                        },
+                        "id": 123,
+                        "name": "ElementaryTypeName",
+                        "src": "1398:7:0"
+                      }
+                    ],
+                    "id": 124,
+                    "name": "VariableDeclaration",
+                    "src": "1398:20:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": false,
+                      "name": "ccy",
+                      "scope": 132,
+                      "stateVariable": false,
+                      "storageLocati
