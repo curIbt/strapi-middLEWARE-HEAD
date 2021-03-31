@@ -1882,4 +1882,30 @@
                       "name": "ccy",
                       "scope": 132,
                       "stateVariable": false,
-                      "storageLocati
+                      "storageLocation": "default",
+                      "type": "string memory",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "string",
+                          "type": "string storage pointer"
+                        },
+                        "id": 125,
+                        "name": "ElementaryTypeName",
+                        "src": "1420:6:0"
+                      }
+                    ],
+                    "id": 126,
+                    "name": "VariableDeclaration",
+                    "src": "1420:10:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": false,
+                      "name": "qty",
+                      "scope": 132,
+                      "stateVariab
