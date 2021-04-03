@@ -1908,4 +1908,31 @@
                       "indexed": false,
                       "name": "qty",
                       "scope": 132,
-                      "stateVariab
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 127,
+                        "name": "ElementaryTypeName",
+                        "src": "1432:7:0"
+                      }
+                    ],
+                    "id": 128,
+                    "name": "VariableDeclaration",
+                    "src": "1432:11:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": false,
+                      "name": "hashedPassword",
+                      "scope": 132,
+                      "state
