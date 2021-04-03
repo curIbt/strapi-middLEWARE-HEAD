@@ -1935,4 +1935,33 @@
                       "indexed": false,
                       "name": "hashedPassword",
                       "scope": 132,
-                      "state
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "bytes32",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "bytes32",
+                          "type": "bytes32"
+                        },
+                        "id": 129,
+                        "name": "ElementaryTypeName",
+                        "src": "1445:7:0"
+                      }
+                    ],
+                    "id": 130,
+                    "name": "VariableDeclaration",
+                    "src": "1445:22:0"
+                  }
+                ],
+                "id": 131,
+                "name": "ParameterList",
+                "src": "1397:71:0"
+              }
+            ],
+            "id": 132,
+            "name": "EventDefinition",
+            "src"
