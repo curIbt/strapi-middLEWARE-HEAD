@@ -2045,4 +2045,37 @@
                         "attributes": {
                           "name": "address",
                           "type": "address"
-                      
+                        },
+                        "id": 137,
+                        "name": "ElementaryTypeName",
+                        "src": "1523:7:0"
+                      }
+                    ],
+                    "id": 138,
+                    "name": "VariableDeclaration",
+                    "src": "1523:20:0"
+                  }
+                ],
+                "id": 139,
+                "name": "ParameterList",
+                "src": "1494:50:0"
+              }
+            ],
+            "id": 140,
+            "name": "EventDefinition",
+            "src": "1475:70:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "implemented": true,
+              "isConstructor": true,
+              "modifiers": [
+                null
+              ],
+              "name": "GenericSwap",
+              "payable": false,
+              "scope": 644,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "publ
