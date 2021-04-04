@@ -2019,4 +2019,30 @@
                           "name": "string",
                           "type": "string storage pointer"
                         },
-                        "id": 135
+                        "id": 135,
+                        "name": "ElementaryTypeName",
+                        "src": "1510:6:0"
+                      }
+                    ],
+                    "id": 136,
+                    "name": "VariableDeclaration",
+                    "src": "1510:11:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": false,
+                      "name": "tokenAddress",
+                      "scope": 140,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "address",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "address",
+                          "type": "address"
+                      
