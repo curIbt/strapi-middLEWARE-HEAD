@@ -2186,3 +2186,30 @@
           {
             "attributes": {
               "name": "canClaim",
+              "visibility": "internal"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "secret",
+                      "scope": 197,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "string memory",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "string",
+                          "type": "string storage pointer"
+                        },
+                        "id": 150,
+                        "name": "ElementaryTypeName",
+                        "src": "1740:6:0"
+                      }
+                    ]
