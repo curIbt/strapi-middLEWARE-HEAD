@@ -2156,4 +2156,33 @@
                                 },
                                 "id": 144,
                                 "name": "Identifier",
-                               
+                                "src": "1612:3:0"
+                              }
+                            ],
+                            "id": 145,
+                            "name": "MemberAccess",
+                            "src": "1612:10:0"
+                          }
+                        ],
+                        "id": 146,
+                        "name": "Assignment",
+                        "src": "1604:18:0"
+                      }
+                    ],
+                    "id": 147,
+                    "name": "ExpressionStatement",
+                    "src": "1604:18:0"
+                  }
+                ],
+                "id": 148,
+                "name": "Block",
+                "src": "1594:35:0"
+              }
+            ],
+            "id": 149,
+            "name": "FunctionDefinition",
+            "src": "1572:57:0"
+          },
+          {
+            "attributes": {
+              "name": "canClaim",
