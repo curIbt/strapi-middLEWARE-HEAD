@@ -2212,4 +2212,32 @@
                         "name": "ElementaryTypeName",
                         "src": "1740:6:0"
                       }
-                    ]
+                    ],
+                    "id": 151,
+                    "name": "VariableDeclaration",
+                    "src": "1740:13:0"
+                  }
+                ],
+                "id": 152,
+                "name": "ParameterList",
+                "src": "1739:15:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "assignments": [
+                        154
+                      ]
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "constant": false,
+                          "name": "hashedPassword",
+                          "scope": 197,
+                          "stateVariable": false,
+                          "storageLocation": "default",
+                          "type": "bytes32",
+                          "value": null,
+                          "visibility": "in
