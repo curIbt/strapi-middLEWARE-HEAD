@@ -2240,4 +2240,29 @@
                           "storageLocation": "default",
                           "type": "bytes32",
                           "value": null,
-                          "visibility": "in
+                          "visibility": "internal"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "name": "bytes32",
+                              "type": "bytes32"
+                            },
+                            "id": 153,
+                            "name": "ElementaryTypeName",
+                            "src": "1764:7:0"
+                          }
+                        ],
+                        "id": 154,
+                        "name": "VariableDeclaration",
+                        "src": "1764:22:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "isStructConstructorCall": false,
+                          "lValueRequested": false,
+    
