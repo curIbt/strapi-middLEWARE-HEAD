@@ -2285,4 +2285,27 @@
                               ],
                               "referencedDeclaration": 720,
                               "type": "function () pure returns (bytes32)",
-                        
+                              "value": "sha256"
+                            },
+                            "id": 155,
+                            "name": "Identifier",
+                            "src": "1789:6:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 151,
+                              "type": "string memory",
+                              "value": "secret"
+                            },
+                            "id": 156,
+                            "name": "Identifier",
+                            "src": "1796:6:0"
+                          }
+                        ],
+                        "id": 157,
+                        "name": "FunctionCall",
+             
