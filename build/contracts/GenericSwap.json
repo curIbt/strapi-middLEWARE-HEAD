@@ -2336,4 +2336,28 @@
                         "children": [
                           {
                             "attributes": {
-                            
+                              "name": "bool",
+                              "type": "bool"
+                            },
+                            "id": 159,
+                            "name": "ElementaryTypeName",
+                            "src": "1813:4:0"
+                          }
+                        ],
+                        "id": 160,
+                        "name": "VariableDeclaration",
+                        "src": "1813:12:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "commonType": {
+                            "typeIdentifier": "t_bool",
+                            "typeString": "bool"
+                          },
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": "&&",
+                
