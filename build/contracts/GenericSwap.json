@@ -2419,4 +2419,26 @@
                                 "src": "1828:19:0"
                               }
                             ],
-                            "id"
+                            "id": 164,
+                            "name": "MemberAccess",
+                            "src": "1828:25:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "commonType": {
+                                "typeIdentifier": "t_address",
+                                "typeString": "address"
+                              },
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "operator": "==",
+                              "type": "bool"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                       
