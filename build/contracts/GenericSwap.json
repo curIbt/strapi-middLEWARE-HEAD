@@ -2475,4 +2475,22 @@
                                         "src": "1857:3:0"
                                       },
                                       {
-                                       
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 154,
+                                          "type": "bytes32",
+                                          "value": "hashedPassword"
+                                        },
+                                        "id": 166,
+                                        "name": "Identifier",
+                                        "src": "1861:14:0"
+                                      }
+                                    ],
+                                    "id": 167,
+                                    "name": "IndexAccess",
+                                    "src": "1857:19:0"
+                                  }
+          
