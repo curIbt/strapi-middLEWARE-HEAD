@@ -2513,4 +2513,25 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                         
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 713,
+                                      "type": "msg",
+                                      "value": "msg"
+                                    },
+                                    "id": 169,
+                                    "name": "Identifier",
+                                    "src": "1893:3:0"
+                                  }
+                                ],
+                                "id": 170,
+                                "name": "MemberAccess",
+                                "src": "1893:10:0"
+                              }
+                            ],
+                            "id": 171,
+                            "name": "BinaryOperation",
+                            "src": "1857:46:0"
+                          }
+                       
