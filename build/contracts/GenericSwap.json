@@ -2534,4 +2534,31 @@
                             "name": "BinaryOperation",
                             "src": "1857:46:0"
                           }
-                       
+                        ],
+                        "id": 172,
+                        "name": "BinaryOperation",
+                        "src": "1828:75:0"
+                      }
+                    ],
+                    "id": 173,
+                    "name": "VariableDeclarationStatement",
+                    "src": "1813:90:0"
+                  },
+                  {
+                    "attributes": {
+                      "assignments": [
+                        175
+                      ]
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "constant": false,
+                          "name": "timeCheck",
+                          "scope": 197,
+                          "stateVariable": false,
+                          "storageLocation": "default",
+                          "type": "bool",
+                          "value": null,
+                          "visibility": "internal"
+                  
