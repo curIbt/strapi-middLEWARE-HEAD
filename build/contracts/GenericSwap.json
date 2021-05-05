@@ -2752,4 +2752,21 @@
                                       "operator": "!",
                                       "prefix": true,
                                       "type": "bool"
-                                    
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": true,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "member_name": "done",
+                                          "referencedDeclaration": 88,
+                                          "type": "bool"
+                                        },
+                                        "children": [
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "isConstant": fals
