@@ -2784,3 +2784,18 @@
                                                   ],
                                                   "referencedDeclaration": 65,
                                                   "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                                  "value": "txs"
+                                                },
+                                                "id": 184,
+                                                "name": "Identifier",
+                                                "src": "1989:3:0"
+                                              },
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 154,
+                                                  "type": "bytes32",
+                                                  "value":
