@@ -2835,4 +2835,24 @@
                                   }
                                 ],
                                 "id": 190,
-                                "name": "Binary
+                                "name": "BinaryOperation",
+                                "src": "1988:36:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 175,
+                                  "type": "bool",
+                                  "value": "timeCheck"
+                                },
+                                "id": 191,
+                                "name": "Identifier",
+                                "src": "2028:9:0"
+                              }
+                            ],
+                            "id": 192,
+                            "name": "BinaryOperation",
+                            
