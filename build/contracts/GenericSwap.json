@@ -2798,4 +2798,22 @@
                                                   ],
                                                   "referencedDeclaration": 154,
                                                   "type": "bytes32",
-                                                  "value":
+                                                  "value": "hashedPassword"
+                                                },
+                                                "id": 185,
+                                                "name": "Identifier",
+                                                "src": "1993:14:0"
+                                              }
+                                            ],
+                                            "id": 186,
+                                            "name": "IndexAccess",
+                                            "src": "1989:19:0"
+                                          }
+                                        ],
+                                        "id": 187,
+                                        "name": "MemberAccess",
+                                        "src": "1989:24:0"
+                                      }
+                                    ],
+                                    "id": 188,
+                  
