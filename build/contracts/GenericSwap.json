@@ -2816,4 +2816,23 @@
                                       }
                                     ],
                                     "id": 188,
-                  
+                                    "name": "UnaryOperation",
+                                    "src": "1988:25:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 160,
+                                      "type": "bool",
+                                      "value": "txCheck"
+                                    },
+                                    "id": 189,
+                                    "name": "Identifier",
+                                    "src": "2017:7:0"
+                                  }
+                                ],
+                                "id": 190,
+                                "name": "Binary
