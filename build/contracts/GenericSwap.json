@@ -2944,4 +2944,26 @@
                         "children": [
                           {
                             "attributes": {
-           
+                              "name": "bool",
+                              "type": "bool"
+                            },
+                            "id": 201,
+                            "name": "ElementaryTypeName",
+                            "src": "2175:4:0"
+                          }
+                        ],
+                        "id": 202,
+                        "name": "VariableDeclaration",
+                        "src": "2175:12:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "commonType": {
+                            "typeIdentifier": "t_bool",
+                            "typeString": "bool"
+                          },
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
