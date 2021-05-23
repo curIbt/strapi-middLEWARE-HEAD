@@ -3082,4 +3082,22 @@
                                         "name": "Identifier",
                                         "src": "2219:3:0"
                                       },
-                                  
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 199,
+                                          "type": "bytes32",
+                                          "value": "hashedPassword"
+                                        },
+                                        "id": 208,
+                                        "name": "Identifier",
+                                        "src": "2223:14:0"
+                                      }
+                                    ],
+                                    "id": 209,
+                                    "name": "IndexAccess",
+                                    "src": "2219:19:0"
+                          
