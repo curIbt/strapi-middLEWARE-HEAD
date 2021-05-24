@@ -3141,4 +3141,31 @@
                             "id": 213,
                             "name": "BinaryOperation",
                             "src": "2219:46:0"
-     
+                          }
+                        ],
+                        "id": 214,
+                        "name": "BinaryOperation",
+                        "src": "2190:75:0"
+                      }
+                    ],
+                    "id": 215,
+                    "name": "VariableDeclarationStatement",
+                    "src": "2175:90:0"
+                  },
+                  {
+                    "attributes": {
+                      "assignments": [
+                        217
+                      ]
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "constant": false,
+                          "name": "timeCheck",
+                          "scope": 239,
+                          "stateVariable": false,
+                          "storageLocation": "default",
+                          "type": "bool",
+                          "value": null,
+                          "visibility": "int
