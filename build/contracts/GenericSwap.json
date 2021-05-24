@@ -3168,4 +3168,28 @@
                           "storageLocation": "default",
                           "type": "bool",
                           "value": null,
-                          "visibility": "int
+                          "visibility": "internal"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "name": "bool",
+                              "type": "bool"
+                            },
+                            "id": 216,
+                            "name": "ElementaryTypeName",
+                            "src": "2275:4:0"
+                          }
+                        ],
+                        "id": 217,
+                        "name": "VariableDeclaration",
+                        "src": "2275:14:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "commonType": {
+                            "typeIdentifier": "t_uint256",
+                            "typeString": "uint256"
+                          },
+                          "isC
