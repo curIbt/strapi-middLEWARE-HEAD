@@ -3120,4 +3120,25 @@
                                 "children": [
                                   {
                                     "attributes": {
-                                      "
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 713,
+                                      "type": "msg",
+                                      "value": "msg"
+                                    },
+                                    "id": 211,
+                                    "name": "Identifier",
+                                    "src": "2255:3:0"
+                                  }
+                                ],
+                                "id": 212,
+                                "name": "MemberAccess",
+                                "src": "2255:10:0"
+                              }
+                            ],
+                            "id": 213,
+                            "name": "BinaryOperation",
+                            "src": "2219:46:0"
+     
