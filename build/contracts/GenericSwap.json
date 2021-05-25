@@ -3192,4 +3192,28 @@
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           },
-                          "isC
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": ">",
+                          "type": "bool"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 715,
+                              "type": "uint256",
+                              "value": "now"
+                            },
+                            "id": 218,
+                            "name": "Identifier",
+                            "src": "2292:3:0"
+                          },
+                          {
+                            "attributes": {
+                              "argu
