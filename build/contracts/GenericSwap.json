@@ -3256,4 +3256,27 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                     
+                                      "referencedDeclaration": 199,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 220,
+                                    "name": "Identifier",
+                                    "src": "2302:14:0"
+                                  }
+                                ],
+                                "id": 221,
+                                "name": "IndexAccess",
+                                "src": "2298:19:0"
+                              }
+                            ],
+                            "id": 222,
+                            "name": "MemberAccess",
+                            "src": "2298:34:0"
+                          }
+                        ],
+                        "id": 223,
+                        "name": "BinaryOperation",
+                        "src": "2292:40:0"
+                      }
+   
