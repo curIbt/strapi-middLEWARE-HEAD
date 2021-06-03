@@ -3366,4 +3366,20 @@
                                         "attributes": {
                                           "argumentTypes": null,
                                           "isConstant": false,
-                                          "isLVal
+                                          "isLValue": true,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "member_name": "done",
+                                          "referencedDeclaration": 88,
+                                          "type": "bool"
+                                        },
+                                        "children": [
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "isConstant": false,
+                                              "isLValue": true,
+                                              "isPure": false,
+                                              "lValueRequested": false,
+                                              "type": "struct GenericSwap.TX storage ref"
+                           
