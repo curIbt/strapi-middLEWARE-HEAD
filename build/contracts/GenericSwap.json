@@ -3398,4 +3398,20 @@
                                                 "name": "Identifier",
                                                 "src": "2351:3:0"
                                               },
-                                        
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 199,
+                                                  "type": "bytes32",
+                                                  "value": "hashedPassword"
+                                                },
+                                                "id": 227,
+                                                "name": "Identifier",
+                                                "src": "2355:14:0"
+                                              }
+                                            ],
+                                            "id": 228,
+        
