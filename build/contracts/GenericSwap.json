@@ -3433,4 +3433,24 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                  
+                                      "referencedDeclaration": 202,
+                                      "type": "bool",
+                                      "value": "txCheck"
+                                    },
+                                    "id": 231,
+                                    "name": "Identifier",
+                                    "src": "2379:7:0"
+                                  }
+                                ],
+                                "id": 232,
+                                "name": "BinaryOperation",
+                                "src": "2350:36:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 217,
+                                  "type": "bool"
