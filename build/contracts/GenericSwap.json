@@ -3414,4 +3414,23 @@
                                               }
                                             ],
                                             "id": 228,
-        
+                                            "name": "IndexAccess",
+                                            "src": "2351:19:0"
+                                          }
+                                        ],
+                                        "id": 229,
+                                        "name": "MemberAccess",
+                                        "src": "2351:24:0"
+                                      }
+                                    ],
+                                    "id": 230,
+                                    "name": "UnaryOperation",
+                                    "src": "2350:25:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                  
