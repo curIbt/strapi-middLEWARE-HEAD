@@ -3453,4 +3453,32 @@
                                     null
                                   ],
                                   "referencedDeclaration": 217,
-                                  "type": "bool"
+                                  "type": "bool",
+                                  "value": "timeCheck"
+                                },
+                                "id": 233,
+                                "name": "Identifier",
+                                "src": "2390:9:0"
+                              }
+                            ],
+                            "id": 234,
+                            "name": "BinaryOperation",
+                            "src": "2350:49:0"
+                          }
+                        ],
+                        "id": 235,
+                        "name": "FunctionCall",
+                        "src": "2342:58:0"
+                      }
+                    ],
+                    "id": 236,
+                    "name": "ExpressionStatement",
+                    "src": "2342:58:0"
+                  },
+                  {
+                    "id": 237,
+                    "name": "PlaceholderStatement",
+                    "src": "2410:1:0"
+                  }
+                ],
+                "id": 238
