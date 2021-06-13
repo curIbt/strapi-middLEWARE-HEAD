@@ -3481,4 +3481,39 @@
                     "src": "2410:1:0"
                   }
                 ],
-                "id": 238
+                "id": 238,
+                "name": "Block",
+                "src": "2165:253:0"
+              }
+            ],
+            "id": 239,
+            "name": "ModifierDefinition",
+            "src": "2122:296:0"
+          },
+          {
+            "attributes": {
+              "name": "isOwner",
+              "visibility": "internal"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 240,
+                "name": "ParameterList",
+                "src": "2441:0:0"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "is
