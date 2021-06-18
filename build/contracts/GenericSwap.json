@@ -3580,4 +3580,25 @@
                                       ],
                                       "referencedDeclaration": 713,
                                       "type": "msg",
-                                      "value"
+                                      "value": "msg"
+                                    },
+                                    "id": 242,
+                                    "name": "Identifier",
+                                    "src": "2459:3:0"
+                                  }
+                                ],
+                                "id": 243,
+                                "name": "MemberAccess",
+                                "src": "2459:10:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 61,
+                                  "type": "address",
+                                  "value": "owner"
+                                },
+                          
