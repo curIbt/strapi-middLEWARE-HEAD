@@ -3629,4 +3629,35 @@
                 "id": 249,
                 "name": "Block",
                 "src": "2441:56:0"
-          
+              }
+            ],
+            "id": 250,
+            "name": "ModifierDefinition",
+            "src": "2424:73:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "implemented": true,
+              "isConstructor": false,
+              "name": "addCurrency",
+              "payable": false,
+              "scope": 644,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "name",
+                      "scope": 314,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "string memory",
+                      "value": null,
+                      "visibility": "internal"
+            
