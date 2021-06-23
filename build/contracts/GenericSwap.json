@@ -3686,4 +3686,31 @@
                       "type": "string memory",
                       "value": null,
                       "visibility": "internal"
-             
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "string",
+                          "type": "string storage pointer"
+                        },
+                        "id": 253,
+                        "name": "ElementaryTypeName",
+                        "src": "2753:6:0"
+                      }
+                    ],
+                    "id": 254,
+                    "name": "VariableDeclaration",
+                    "src": "2753:13:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "isToken",
+                      "scope": 314,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "bool",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "
