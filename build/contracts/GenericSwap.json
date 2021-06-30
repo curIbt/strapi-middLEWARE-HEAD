@@ -3713,4 +3713,33 @@
                       "value": null,
                       "visibility": "internal"
                     },
-                    "
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "bool",
+                          "type": "bool"
+                        },
+                        "id": 255,
+                        "name": "ElementaryTypeName",
+                        "src": "2768:4:0"
+                      }
+                    ],
+                    "id": 256,
+                    "name": "VariableDeclaration",
+                    "src": "2768:12:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "tAddress",
+                      "scope": 314,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "address",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          
