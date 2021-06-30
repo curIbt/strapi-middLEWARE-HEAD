@@ -3776,4 +3776,34 @@
                     null
                   ]
                 },
-          
+                "children": [
+                  {
+                    "attributes": {
+                      "argumentTypes": null,
+                      "overloadedDeclarations": [
+                        null
+                      ],
+                      "referencedDeclaration": 250,
+                      "type": "modifier ()",
+                      "value": "isOwner"
+                    },
+                    "id": 260,
+                    "name": "Identifier",
+                    "src": "2800:7:0"
+                  }
+                ],
+                "id": 261,
+                "name": "ModifierInvocation",
+                "src": "2800:7:0"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                  
