@@ -3885,4 +3885,23 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                       
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 254,
+                                          "type": "string memory",
+                                          "value": "symbol"
+                                        },
+                                        "id": 265,
+                                        "name": "Identifier",
+                                        "src": "2839:6:0"
+                                      }
+                                    ],
+                                    "id": 266,
+                                    "name": "IndexAccess",
+                                    "src": "2834:12:0"
+                                  }
+                                ],
+                                "id": 267,
+                                "name": "MemberAccess",
+                  
