@@ -3967,4 +3967,23 @@
                                       "value": "ccys"
                                     },
                                     "id": 271,
-                                    "name": "Ide
+                                    "name": "Identifier",
+                                    "src": "2863:4:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 254,
+                                      "type": "string memory",
+                                      "value": "symbol"
+                                    },
+                                    "id": 272,
+                                    "name": "Identifier",
+                                    "src": "2868:6:0"
+                                  }
+                                ],
+                                "id": 273,
+                                "name": "I
