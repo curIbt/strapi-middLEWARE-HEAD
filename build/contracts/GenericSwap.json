@@ -4035,4 +4035,23 @@
                             "attributes": {
                               "argumentTypes": null,
                               "isConstant": false,
-                 
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": true,
+                              "member_name": "cType",
+                              "referencedDeclaration": 93,
+                              "type": "enum GenericSwap.ccyType"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "type": "struct GenericSwap.Currency storage ref"
+                                },
+                                "children": [
+                                  {
+       
