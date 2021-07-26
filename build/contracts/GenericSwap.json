@@ -4072,4 +4072,26 @@
                                       "argumentTypes": null,
                                       "overloadedDeclarations": [
                                         null
-                           
+                                      ],
+                                      "referencedDeclaration": 254,
+                                      "type": "string memory",
+                                      "value": "symbol"
+                                    },
+                                    "id": 279,
+                                    "name": "Identifier",
+                                    "src": "2902:6:0"
+                                  }
+                                ],
+                                "id": 280,
+                                "name": "IndexAccess",
+                                "src": "2897:12:0"
+                              }
+                            ],
+                            "id": 281,
+                            "name": "MemberAccess",
+                            "src": "2897:18:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+              
