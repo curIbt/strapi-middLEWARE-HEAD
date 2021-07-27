@@ -4131,4 +4131,23 @@
                                     "attributes": {
                                       "argumentTypes": null,
                                       "overloadedDeclarations": [
-                       
+                                        null
+                                      ],
+                                      "referencedDeclaration": 72,
+                                      "type": "type(enum GenericSwap.ccyType)",
+                                      "value": "ccyType"
+                                    },
+                                    "id": 283,
+                                    "name": "Identifier",
+                                    "src": "2928:7:0"
+                                  }
+                                ],
+                                "id": 284,
+                                "name": "MemberAccess",
+                                "src": "2928:13:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+     
