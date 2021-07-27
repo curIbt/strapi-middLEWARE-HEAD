@@ -4113,4 +4113,22 @@
                                 },
                                 "id": 282,
                                 "name": "Identifier",
-                
+                                "src": "2918:7:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": false,
+                                  "isPure": true,
+                                  "lValueRequested": false,
+                                  "member_name": "Token",
+                                  "referencedDeclaration": null,
+                                  "type": "enum GenericSwap.ccyType"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                       
