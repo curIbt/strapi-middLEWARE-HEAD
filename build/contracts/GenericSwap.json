@@ -4150,4 +4150,22 @@
                                 "attributes": {
                                   "argumentTypes": null,
                                   "isConstant": false,
-     
+                                  "isLValue": false,
+                                  "isPure": true,
+                                  "lValueRequested": false,
+                                  "member_name": "Native",
+                                  "referencedDeclaration": null,
+                                  "type": "enum GenericSwap.ccyType"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 72,
+                                      "type": "type(enum GenericSwap.ccyType)",
+                                      "value": "ccyType"
+                                    },
+          
