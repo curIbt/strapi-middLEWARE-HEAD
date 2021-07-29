@@ -4193,4 +4193,29 @@
                     "src": "2897:61:0"
                   },
                   {
-    
+                    "attributes": {
+                      "falseBody": null
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "overloadedDeclarations": [
+                            null
+                          ],
+                          "referencedDeclaration": 256,
+                          "type": "bool",
+                          "value": "isToken"
+                        },
+                        "id": 290,
+                        "name": "Identifier",
+                        "src": "2972:7:0"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                
