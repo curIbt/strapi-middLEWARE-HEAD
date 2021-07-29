@@ -4168,4 +4168,29 @@
                                       "type": "type(enum GenericSwap.ccyType)",
                                       "value": "ccyType"
                                     },
-          
+                                    "id": 285,
+                                    "name": "Identifier",
+                                    "src": "2944:7:0"
+                                  }
+                                ],
+                                "id": 286,
+                                "name": "MemberAccess",
+                                "src": "2944:14:0"
+                              }
+                            ],
+                            "id": 287,
+                            "name": "Conditional",
+                            "src": "2918:40:0"
+                          }
+                        ],
+                        "id": 288,
+                        "name": "Assignment",
+                        "src": "2897:61:0"
+                      }
+                    ],
+                    "id": 289,
+                    "name": "ExpressionStatement",
+                    "src": "2897:61:0"
+                  },
+                  {
+    
