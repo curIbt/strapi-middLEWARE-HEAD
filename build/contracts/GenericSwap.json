@@ -4270,4 +4270,23 @@
                                               ],
                                               "referencedDeclaration": 254,
                                               "type": "string memory",
-                                        
+                                              "value": "symbol"
+                                            },
+                                            "id": 292,
+                                            "name": "Identifier",
+                                            "src": "3000:6:0"
+                                          }
+                                        ],
+                                        "id": 293,
+                                        "name": "IndexAccess",
+                                        "src": "2995:12:0"
+                                      }
+                                    ],
+                                    "id": 294,
+                                    "name": "MemberAccess",
+                                    "src": "2995:25:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+      
