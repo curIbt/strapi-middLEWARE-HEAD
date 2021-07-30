@@ -4254,4 +4254,20 @@
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclar
+                                              "referencedDeclaration": 69,
+                                              "type": "mapping(string memory => struct GenericSwap.Currency storage ref)",
+                                              "value": "ccys"
+                                            },
+                                            "id": 291,
+                                            "name": "Identifier",
+                                            "src": "2995:4:0"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+                                              "referencedDeclaration": 254,
+                                              "type": "string memory",
+                                        
