@@ -4336,4 +4336,24 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                           
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": true,
+                              "member_name": "exist",
+                              "referencedDeclaration": 97,
+                              "type": "bool"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "type": "struct GenericSwap.Currency storage ref"
+                                },
+                                "children": [
+                                  {
+               
