@@ -4374,4 +4374,26 @@
                                       "argumentTypes": null,
                                       "overloadedDeclarations": [
                                         null
-        
+                                      ],
+                                      "referencedDeclaration": 254,
+                                      "type": "string memory",
+                                      "value": "symbol"
+                                    },
+                                    "id": 301,
+                                    "name": "Identifier",
+                                    "src": "3056:6:0"
+                                  }
+                                ],
+                                "id": 302,
+                                "name": "IndexAccess",
+                                "src": "3051:12:0"
+                              }
+                            ],
+                            "id": 303,
+                            "name": "MemberAccess",
+                            "src": "3051:18:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "hexvalu
