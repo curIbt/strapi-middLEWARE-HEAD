@@ -4356,4 +4356,22 @@
                                 },
                                 "children": [
                                   {
-               
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 69,
+                                      "type": "mapping(string memory => struct GenericSwap.Currency storage ref)",
+                                      "value": "ccys"
+                                    },
+                                    "id": 300,
+                                    "name": "Identifier",
+                                    "src": "3051:4:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+        
