@@ -4443,4 +4443,24 @@
                                 {
                                   "typeIdentifier": "t_string_memory_ptr",
                                   "typeString": "string memory"
-                           
+                                },
+                                {
+                                  "typeIdentifier": "t_string_memory_ptr",
+                                  "typeString": "string memory"
+                                },
+                                {
+                                  "typeIdentifier": "t_address",
+                                  "typeString": "address"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 140,
+                              "type": "function (string memory,string memory,address)",
+                              "value": "CurrencyAdded"
+                            },
+                            "id": 307,
+                            "name": "Identifier",
+                            "src": "3086:13:0"
+                          }
