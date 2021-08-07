@@ -4463,4 +4463,26 @@
                             "id": 307,
                             "name": "Identifier",
                             "src": "3086:13:0"
-                          }
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 254,
+                              "type": "string memory",
+                              "value": "symbol"
+                            },
+                            "id": 308,
+                            "name": "Identifier",
+                            "src": "3100:6:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 252,
+                              "type": "string memory
