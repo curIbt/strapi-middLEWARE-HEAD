@@ -4509,4 +4509,40 @@
                         ],
                         "id": 311,
                         "name": "FunctionCall",
-                        "src": "3086:37:
+                        "src": "3086:37:0"
+                      }
+                    ],
+                    "id": 312,
+                    "name": "ExpressionStatement",
+                    "src": "3086:37:0"
+                  }
+                ],
+                "id": 313,
+                "name": "Block",
+                "src": "2815:315:0"
+              }
+            ],
+            "id": 314,
+            "name": "FunctionDefinition",
+            "src": "2719:411:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "implemented": true,
+              "isConstructor": false,
+              "modifiers": [
+                null
+              ],
+              "name": "publish",
+              "payable": true,
+              "scope": 644,
+              "stateMutability": "payable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attr
