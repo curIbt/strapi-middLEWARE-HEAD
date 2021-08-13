@@ -4598,4 +4598,30 @@
                   },
                   {
                     "attributes": {
-                      "con
+                      "constant": false,
+                      "name": "hashedPassword",
+                      "scope": 389,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "bytes32",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "bytes32",
+                          "type": "bytes32"
+                        },
+                        "id": 319,
+                        "name": "ElementaryTypeName",
+                        "src": "3524:7:0"
+                      }
+                    ],
+                    "id": 320,
+                    "name": "VariableDeclaration",
+                    "src": "3524:22:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": fal
