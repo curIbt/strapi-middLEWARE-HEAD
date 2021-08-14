@@ -4680,4 +4680,31 @@
                 "src": "3494:75:0"
               },
               {
-    
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 326,
+                "name": "ParameterList",
+                "src": "3585:0:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "assignments": [
+                        328
+                      ]
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "constant": false,
+                          "name": "ccy",
+                          "scope": 389,
+                          "stateVariable": false,
+                          "storageLocation": "storage",
+                          "type": "struct GenericSwap.Currency storage pointer",
+                          "value": null,
