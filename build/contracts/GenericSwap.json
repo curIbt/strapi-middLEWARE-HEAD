@@ -4651,4 +4651,33 @@
                   {
                     "attributes": {
                       "constant": false,
-                      
+                      "name": "exp",
+                      "scope": 389,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint",
+                          "type": "uint256"
+                        },
+                        "id": 323,
+                        "name": "ElementaryTypeName",
+                        "src": "3560:4:0"
+                      }
+                    ],
+                    "id": 324,
+                    "name": "VariableDeclaration",
+                    "src": "3560:8:0"
+                  }
+                ],
+                "id": 325,
+                "name": "ParameterList",
+                "src": "3494:75:0"
+              },
+              {
+    
