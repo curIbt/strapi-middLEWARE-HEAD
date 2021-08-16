@@ -4708,3 +4708,26 @@
                           "storageLocation": "storage",
                           "type": "struct GenericSwap.Currency storage pointer",
                           "value": null,
+                          "visibility": "internal"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "contractScope": null,
+                              "name": "Currency",
+                              "referencedDeclaration": 98,
+                              "type": "struct GenericSwap.Currency storage pointer"
+                            },
+                            "id": 327,
+                            "name": "UserDefinedTypeName",
+                            "src": "3595:8:0"
+                          }
+                        ],
+                        "id": 328,
+                        "name": "VariableDeclaration",
+                        "src": "3595:20:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": fa
