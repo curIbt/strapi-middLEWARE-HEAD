@@ -4730,4 +4730,25 @@
                       {
                         "attributes": {
                           "argumentTypes": null,
-                          "isConstant": fa
+                          "isConstant": false,
+                          "isLValue": true,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "type": "struct GenericSwap.Currency storage ref"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 69,
+                              "type": "mapping(string memory => struct GenericSwap.Currency storage ref)",
+                              "value": "ccys"
+                            },
+                            "id": 329,
+                            "name": "Identifier",
+                            "src": "3618:4:0"
+                          },
+           
