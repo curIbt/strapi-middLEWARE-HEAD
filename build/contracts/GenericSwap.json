@@ -4751,4 +4751,28 @@
                             "name": "Identifier",
                             "src": "3618:4:0"
                           },
-           
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 316,
+                              "type": "string memory",
+                              "value": "ccyName"
+                            },
+                            "id": 330,
+                            "name": "Identifier",
+                            "src": "3623:7:0"
+                          }
+                        ],
+                        "id": 331,
+                        "name": "IndexAccess",
+                        "src": "3618:13:0"
+                      }
+                    ],
+                    "id": 332,
+                    "name": "VariableDeclarationStatement",
+                    "src": "3595:36:0"
+                  },
+    
