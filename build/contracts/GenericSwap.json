@@ -4801,4 +4801,29 @@
                               "type": "uint256"
                             },
                             "id": 333,
-    
+                            "name": "ElementaryTypeName",
+                            "src": "3641:7:0"
+                          }
+                        ],
+                        "id": 334,
+                        "name": "VariableDeclaration",
+                        "src": "3641:16:0"
+                      }
+                    ],
+                    "id": 335,
+                    "name": "VariableDeclarationStatement",
+                    "src": "3641:16:0"
+                  },
+                  {
+                    "attributes": {
+                      "falseBody": null
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "commonType": {
+                            "typeIdentifier": "t_bool",
+                            "typeString": "bool"
+                          },
+                          "isConstant": false,
