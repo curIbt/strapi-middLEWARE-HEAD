@@ -4884,4 +4884,23 @@
                                       },
                                       {
                                         "attributes": {
-                                          "argumentTy
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 320,
+                                          "type": "bytes32",
+                                          "value": "hashedPassword"
+                                        },
+                                        "id": 337,
+                                        "name": "Identifier",
+                                        "src": "3676:14:0"
+                                      }
+                                    ],
+                                    "id": 338,
+                                    "name": "IndexAccess",
+                                    "src": "3672:19:0"
+                                  }
+                                ],
+                                "id": 339,
+                     
