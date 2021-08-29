@@ -4925,4 +4925,27 @@
                             "children": [
                               {
                                 "attributes": {
-                                  "argumentTypes": 
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 328,
+                                  "type": "struct GenericSwap.Currency storage pointer",
+                                  "value": "ccy"
+                                },
+                                "id": 341,
+                                "name": "Identifier",
+                                "src": "3701:3:0"
+                              }
+                            ],
+                            "id": 342,
+                            "name": "MemberAccess",
+                            "src": "3701:9:0"
+                          }
+                        ],
+                        "id": 343,
+                        "name": "BinaryOperation",
+                        "src": "3671:39:0"
+                      },
+                      {
+          
