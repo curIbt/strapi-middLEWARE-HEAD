@@ -4968,4 +4968,21 @@
                                 "children": [
                                   {
                                     "attributes": {
-                            
+                                      "argumentTypes": null,
+                                      "isConstant": false,
+                                      "isLValue": true,
+                                      "isPure": false,
+                                      "lValueRequested": false,
+                                      "member_name": "cType",
+                                      "referencedDeclaration": 93,
+                                      "type": "enum GenericSwap.ccyType"
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 328,
+                                          "type": "struct Ge
