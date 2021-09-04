@@ -4985,4 +4985,22 @@
                                             null
                                           ],
                                           "referencedDeclaration": 328,
-                                          "type": "struct Ge
+                                          "type": "struct GenericSwap.Currency storage pointer",
+                                          "value": "ccy"
+                                        },
+                                        "id": 344,
+                                        "name": "Identifier",
+                                        "src": "3730:3:0"
+                                      }
+                                    ],
+                                    "id": 345,
+                                    "name": "MemberAccess",
+                                    "src": "3730:9:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "isConstant": false,
+                                      "isLValue": false,
+                                      "isPure": true,
+                                      "lValueRequested": false,
