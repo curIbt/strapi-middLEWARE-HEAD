@@ -5022,4 +5022,25 @@
                                         "id": 346,
                                         "name": "Identifier",
                                         "src": "3743:7:0"
-              
+                                      }
+                                    ],
+                                    "id": 347,
+                                    "name": "MemberAccess",
+                                    "src": "3743:13:0"
+                                  }
+                                ],
+                                "id": 348,
+                                "name": "BinaryOperation",
+                                "src": "3730:26:0"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "assignments": [
+                                        350
+                                      ]
+                                    },
+                                    "children": [
+                                      {
+                                        
