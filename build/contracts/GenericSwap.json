@@ -5043,4 +5043,20 @@
                                     },
                                     "children": [
                                       {
-                                        
+                                        "attributes": {
+                                          "constant": false,
+                                          "name": "erc",
+                                          "scope": 389,
+                                          "stateVariable": false,
+                                          "storageLocation": "default",
+                                          "type": "contract ERC20",
+                                          "value": null,
+                                          "visibility": "internal"
+                                        },
+                                        "children": [
+                                          {
+                                            "attributes": {
+                                              "contractScope": null,
+                                              "name": "ERC20",
+                                              "referencedDeclaration": 59,
+            
