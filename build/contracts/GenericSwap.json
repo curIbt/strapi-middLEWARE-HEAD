@@ -5093,4 +5093,21 @@
                                                   "typeString": "address"
                                                 }
                                               ],
-                              
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+                                              "referencedDeclaration": 59,
+                                              "type": "type(contract ERC20)",
+                                              "value": "ERC20"
+                                            },
+                                            "id": 351,
+                                            "name": "Identifier",
+                                            "src": "3788:5:0"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "isConstant": false,
+                                              "isLValue": true,
+                                              "isPure": false,
+                                       
