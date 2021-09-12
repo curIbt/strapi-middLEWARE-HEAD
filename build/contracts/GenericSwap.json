@@ -5059,4 +5059,21 @@
                                               "contractScope": null,
                                               "name": "ERC20",
                                               "referencedDeclaration": 59,
-            
+                                              "type": "contract ERC20"
+                                            },
+                                            "id": 349,
+                                            "name": "UserDefinedTypeName",
+                                            "src": "3776:5:0"
+                                          }
+                                        ],
+                                        "id": 350,
+                                        "name": "VariableDeclaration",
+                                        "src": "3776:9:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": false,
+                                          "isPure": false,
+                                          "isStructConstr
