@@ -5110,4 +5110,19 @@
                                               "isConstant": false,
                                               "isLValue": true,
                                               "isPure": false,
-                                       
+                                              "lValueRequested": false,
+                                              "member_name": "tokenAddress",
+                                              "referencedDeclaration": 95,
+                                              "type": "address"
+                                            },
+                                            "children": [
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 328,
+                                                  "type": "struct GenericSwap.Currency storage pointer",
+                                                  "value": "ccy"
+                    
