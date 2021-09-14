@@ -5193,4 +5193,19 @@
                                                 null
                                               ],
                                               "type": "bool",
-                                              "type_conve
+                                              "type_conversion": false
+                                            },
+                                            "children": [
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": [
+                                                    {
+                                                      "typeIdentifier": "t_address",
+                                                      "typeString": "address"
+                                                    },
+                                                    {
+                                                      "typeIdentifier": "t_contract$_GenericSwap_$644",
+                                                      "typeString": "contract GenericSwap"
+                                                    },
+                                                    {
+        
