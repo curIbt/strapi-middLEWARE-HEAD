@@ -5208,4 +5208,17 @@
                                                       "typeString": "contract GenericSwap"
                                                     },
                                                     {
-        
+                                                      "typeIdentifier": "t_uint256",
+                                                      "typeString": "uint256"
+                                                    }
+                                                  ],
+                                                  "isConstant": false,
+                                                  "isLValue": false,
+                                                  "isPure": false,
+                                                  "lValueRequested": false,
+                                                  "member_name": "transferFrom",
+                                                  "referencedDeclaration": 41,
+                                                  "type": "function (address,address,uint256) external returns (bool)"
+                                                },
+                                                "children": [
+                                          
