@@ -5221,4 +5221,19 @@
                                                   "type": "function (address,address,uint256) external returns (bool)"
                                                 },
                                                 "children": [
-                                          
+                                                  {
+                                                    "attributes": {
+                                                      "argumentTypes": null,
+                                                      "overloadedDeclarations": [
+                                                        null
+                                                      ],
+                                                      "referencedDeclaration": 350,
+                                                      "type": "contract ERC20",
+                                                      "value": "erc"
+                                                    },
+                                                    "id": 357,
+                                                    "name": "Identifier",
+                                                    "src": "3837:3:0"
+                                                  }
+                                                ],
+ 
