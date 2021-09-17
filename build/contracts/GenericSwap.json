@@ -5236,4 +5236,18 @@
                                                     "src": "3837:3:0"
                                                   }
                                                 ],
- 
+                                                "id": 358,
+                                                "name": "MemberAccess",
+                                                "src": "3837:16:0"
+                                              },
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "isConstant": false,
+                                                  "isLValue": false,
+                                                  "isPure": false,
+                                                  "lValueRequested": false,
+                                                  "member_name": "sender",
+                                                  "referencedDeclaration": null,
+                                                  "type": "address"
+                                             
