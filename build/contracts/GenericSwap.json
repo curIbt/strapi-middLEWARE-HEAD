@@ -5250,4 +5250,19 @@
                                                   "member_name": "sender",
                                                   "referencedDeclaration": null,
                                                   "type": "address"
-                                             
+                                                },
+                                                "children": [
+                                                  {
+                                                    "attributes": {
+                                                      "argumentTypes": null,
+                                                      "overloadedDeclarations": [
+                                                        null
+                                                      ],
+                                                      "referencedDeclaration": 713,
+                                                      "type": "msg",
+                                                      "value": "msg"
+                                                    },
+                                                    "id": 359,
+                                                    "name": "Identifier",
+                                                    "src": "3854:3:0"
+                                            
