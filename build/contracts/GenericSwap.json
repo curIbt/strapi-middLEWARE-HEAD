@@ -5280,4 +5280,19 @@
                                                   "referencedDeclaration": 726,
                                                   "type": "contract GenericSwap",
                                                   "value": "this"
-                       
+                                                },
+                                                "id": 361,
+                                                "name": "Identifier",
+                                                "src": "3866:4:0"
+                                              },
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 318,
+                                                  "type": "uint256",
+                                                  "value": "qty"
+                                                },
+                                                "id":
