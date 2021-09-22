@@ -5265,4 +5265,19 @@
                                                     "id": 359,
                                                     "name": "Identifier",
                                                     "src": "3854:3:0"
-                                            
+                                                  }
+                                                ],
+                                                "id": 360,
+                                                "name": "MemberAccess",
+                                                "src": "3854:10:0"
+                                              },
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 726,
+                                                  "type": "contract GenericSwap",
+                                                  "value": "this"
+                       
