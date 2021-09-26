@@ -5347,4 +5347,23 @@
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referen
+                                              "referencedDeclaration": 318,
+                                              "type": "uint256",
+                                              "value": "qty"
+                                            },
+                                            "id": 367,
+                                            "name": "Identifier",
+                                            "src": "3906:3:0"
+                                          }
+                                        ],
+                                        "id": 368,
+                                        "name": "Assignment",
+                                        "src": "3895:14:0"
+                                      }
+                                    ],
+                                    "id": 369,
+                                    "name": "ExpressionStatement",
+                                    "src": "3895:14:0"
+                                  }
+                                ],
+                        
