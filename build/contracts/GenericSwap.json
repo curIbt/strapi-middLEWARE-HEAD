@@ -5416,4 +5416,20 @@
                                                   "argumentTypes": null,
                                                   "overloadedDeclarations": [
                                                     null
-                           
+                                                  ],
+                                                  "referencedDeclaration": 713,
+                                                  "type": "msg",
+                                                  "value": "msg"
+                                                },
+                                                "id": 372,
+                                                "name": "Identifier",
+                                                "src": "3971:3:0"
+                                              }
+                                            ],
+                                            "id": 373,
+                                            "name": "MemberAccess",
+                                            "src": "3971:9:0"
+                                          }
+                                        ],
+                                        "id": 374,
+                                        "name": "Assignment",
