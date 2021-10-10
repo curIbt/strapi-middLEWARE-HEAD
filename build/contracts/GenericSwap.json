@@ -5509,4 +5509,22 @@
                                         null
                                       ],
                                       "referencedDeclaration": 316,
-           
+                                      "type": "string memory",
+                                      "value": "ccyName"
+                                    },
+                                    "id": 379,
+                                    "name": "Identifier",
+                                    "src": "4017:7:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 334,
+                                      "type": "uint256",
+                                      "value": "quantity"
+                                    },
+                                    "id": 380,
+                             
