@@ -5527,4 +5527,23 @@
                                       "value": "quantity"
                                     },
                                     "id": 380,
-                             
+                                    "name": "Identifier",
+                                    "src": "4026:8:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 320,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 381,
+                                    "name": "Identifier",
+                                    "src": "4036:14:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argume
