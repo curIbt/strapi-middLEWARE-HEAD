@@ -5624,4 +5624,30 @@
                     "attributes": {
                       "constant": false,
                       "name": "ccyName",
-                      "sc
+                      "scope": 475,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "string memory",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "string",
+                          "type": "string storage pointer"
+                        },
+                        "id": 390,
+                        "name": "ElementaryTypeName",
+                        "src": "4515:6:0"
+                      }
+                    ],
+                    "id": 391,
+                    "name": "VariableDeclaration",
+                    "src": "4515:14:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "qty",
+                      "scope": 
