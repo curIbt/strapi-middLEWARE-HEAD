@@ -5650,4 +5650,31 @@
                     "attributes": {
                       "constant": false,
                       "name": "qty",
-                      "scope": 
+                      "scope": 475,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 392,
+                        "name": "ElementaryTypeName",
+                        "src": "4531:7:0"
+                      }
+                    ],
+                    "id": 393,
+                    "name": "VariableDeclaration",
+                    "src": "4531:11:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "hashedPassword",
+                      "scope": 475,
+                      "stateVariab
