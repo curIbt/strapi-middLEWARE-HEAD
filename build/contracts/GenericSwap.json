@@ -5730,4 +5730,34 @@
                       "name": "exp",
                       "scope": 475,
                       "stateVariable": false,
-                     
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint",
+                          "type": "uint256"
+                        },
+                        "id": 398,
+                        "name": "ElementaryTypeName",
+                        "src": "4580:4:0"
+                      }
+                    ],
+                    "id": 399,
+                    "name": "VariableDeclaration",
+                    "src": "4580:8:0"
+                  }
+                ],
+                "id": 400,
+                "name": "ParameterList",
+                "src": "4514:75:0"
+              },
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+   
