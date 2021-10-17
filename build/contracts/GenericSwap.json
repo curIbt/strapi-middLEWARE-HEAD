@@ -5677,4 +5677,31 @@
                       "constant": false,
                       "name": "hashedPassword",
                       "scope": 475,
-                      "stateVariab
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "bytes32",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "bytes32",
+                          "type": "bytes32"
+                        },
+                        "id": 394,
+                        "name": "ElementaryTypeName",
+                        "src": "4544:7:0"
+                      }
+                    ],
+                    "id": 395,
+                    "name": "VariableDeclaration",
+                    "src": "4544:22:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "cp",
+                      "scope": 475,
+                      "stateVariable": false,
+   
