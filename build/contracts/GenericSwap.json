@@ -5785,4 +5785,23 @@
                             "attributes": {
                               "argumentTypes": null,
                               "isConstant": false,
-                              "isLValue": tr
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": true,
+                              "member_name": "exist",
+                              "referencedDeclaration": 86,
+                              "type": "bool"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "type": "struct GenericSwap.TX storage ref"
+                                },
+                                "children": [
+                                  {
+                                    "attribute
