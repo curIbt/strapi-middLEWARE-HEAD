@@ -5823,4 +5823,25 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                         
+                                      "referencedDeclaration": 395,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 403,
+                                    "name": "Identifier",
+                                    "src": "4612:14:0"
+                                  }
+                                ],
+                                "id": 404,
+                                "name": "IndexAccess",
+                                "src": "4608:19:0"
+                              }
+                            ],
+                            "id": 405,
+                            "name": "MemberAccess",
+                            "src": "4608:25:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                             
