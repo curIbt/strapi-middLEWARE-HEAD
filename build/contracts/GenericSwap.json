@@ -5928,4 +5928,25 @@
                                       "value": "hashedPassword"
                                     },
                                     "id": 410,
-                                   
+                                    "name": "Identifier",
+                                    "src": "4654:14:0"
+                                  }
+                                ],
+                                "id": 411,
+                                "name": "IndexAccess",
+                                "src": "4650:19:0"
+                              }
+                            ],
+                            "id": 412,
+                            "name": "MemberAccess",
+                            "src": "4650:23:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 391,
+                              "type": "string memory",
+                              "value": "ccy
