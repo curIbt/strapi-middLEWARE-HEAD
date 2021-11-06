@@ -5949,4 +5949,31 @@
                               ],
                               "referencedDeclaration": 391,
                               "type": "string memory",
-                              "value": "ccy
+                              "value": "ccyName"
+                            },
+                            "id": 413,
+                            "name": "Identifier",
+                            "src": "4676:7:0"
+                          }
+                        ],
+                        "id": 414,
+                        "name": "Assignment",
+                        "src": "4650:33:0"
+                      }
+                    ],
+                    "id": 415,
+                    "name": "ExpressionStatement",
+                    "src": "4650:33:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": "=",
+                          "type": "address"
+           
