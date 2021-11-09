@@ -5996,4 +5996,23 @@
                                   "isConstant": false,
                                   "isLValue": true,
                                   "isPure": false,
-                                  "lValueReq
+                                  "lValueRequested": false,
+                                  "type": "struct GenericSwap.TX storage ref"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 65,
+                                      "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                      "value": "txs"
+                                    },
+                                    "id": 416,
+                                    "name": "Identifier",
+                                    "src": "4693:3:0"
+                                  },
+                                  {
+                                    "attr
