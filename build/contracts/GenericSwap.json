@@ -6015,4 +6015,25 @@
                                     "src": "4693:3:0"
                                   },
                                   {
-                                    "attr
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 395,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 417,
+                                    "name": "Identifier",
+                                    "src": "4697:14:0"
+                                  }
+                                ],
+                                "id": 418,
+                                "name": "IndexAccess",
+                                "src": "4693:19:0"
+                              }
+                            ],
+                            "id": 419,
+                            "name": "MemberAccess",
+                
