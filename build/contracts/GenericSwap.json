@@ -6084,4 +6084,25 @@
                       {
                         "attributes": {
                           "argumentTypes": null,
-       
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": "=",
+                          "type": "address"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": true,
+                              "member_name": "counterParty",
+                              "referencedDeclaration": 76,
+                              "type": "address"
+                            },
+                            "children": [
+                              {
+                       
