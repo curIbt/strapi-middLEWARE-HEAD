@@ -6056,4 +6056,32 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDecl
+                                  "referencedDeclaration": 713,
+                                  "type": "msg",
+                                  "value": "msg"
+                                },
+                                "id": 420,
+                                "name": "Identifier",
+                                "src": "4728:3:0"
+                              }
+                            ],
+                            "id": 421,
+                            "name": "MemberAccess",
+                            "src": "4728:10:0"
+                          }
+                        ],
+                        "id": 422,
+                        "name": "Assignment",
+                        "src": "4693:45:0"
+                      }
+                    ],
+                    "id": 423,
+                    "name": "ExpressionStatement",
+                    "src": "4693:45:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+       
