@@ -6227,3 +6227,24 @@
                                   },
                                   {
                                     "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 395,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 432,
+                                    "name": "Identifier",
+                                    "src": "4799:14:0"
+                                  }
+                                ],
+                                "id": 433,
+                                "name": "IndexAccess",
+                                "src": "4795:19:0"
+                              }
+                            ],
+                            "id": 434,
+                            "name": "MemberAccess",
+                            "sr
