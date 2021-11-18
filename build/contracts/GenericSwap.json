@@ -6247,4 +6247,29 @@
                             ],
                             "id": 434,
                             "name": "MemberAccess",
-                            "sr
+                            "src": "4795:23:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 393,
+                              "type": "uint256",
+                              "value": "qty"
+                            },
+                            "id": 435,
+                            "name": "Identifier",
+                            "src": "4821:3:0"
+                          }
+                        ],
+                        "id": 436,
+                        "name": "Assignment",
+                        "src": "4795:29:0"
+                      }
+                    ],
+                    "id": 437,
+                    "name": "ExpressionStatement",
+                    "src": "4795:29:0"
+             
