@@ -6315,4 +6315,22 @@
                                         null
                                       ],
                                       "referencedDeclaration": 65,
-           
+                                      "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                      "value": "txs"
+                                    },
+                                    "id": 438,
+                                    "name": "Identifier",
+                                    "src": "4834:3:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 395,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 439,
+                              
