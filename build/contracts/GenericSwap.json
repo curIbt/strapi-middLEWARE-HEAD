@@ -6421,4 +6421,25 @@
                                   },
                                   {
                                     "attributes": {
-                       
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 395,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 446,
+                                    "name": "Identifier",
+                                    "src": "4882:14:0"
+                                  }
+                                ],
+                                "id": 447,
+                                "name": "IndexAccess",
+                                "src": "4878:19:0"
+                              }
+                            ],
+                            "id": 448,
+                            "name": "MemberAccess",
+                            "src": "4878:34:0"
+ 
