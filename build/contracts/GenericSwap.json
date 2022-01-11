@@ -6484,4 +6484,30 @@
                                 },
                                 "id": 450,
                                 "name": "Identifier",
-     
+                                "src": "4921:3:0"
+                              }
+                            ],
+                            "id": 451,
+                            "name": "BinaryOperation",
+                            "src": "4915:9:0"
+                          }
+                        ],
+                        "id": 452,
+                        "name": "Assignment",
+                        "src": "4878:46:0"
+                      }
+                    ],
+                    "id": 453,
+                    "name": "ExpressionStatement",
+                    "src": "4878:46:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator":
