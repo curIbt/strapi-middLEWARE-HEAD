@@ -6550,4 +6550,25 @@
                                     "name": "Identifier",
                                     "src": "4934:3:0"
                                   },
-      
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 395,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 455,
+                                    "name": "Identifier",
+                                    "src": "4938:14:0"
+                                  }
+                                ],
+                                "id": 456,
+                                "name": "IndexAccess",
+                                "src": "4934:19:0"
+                              }
+                            ],
+                            "id": 457,
+              
