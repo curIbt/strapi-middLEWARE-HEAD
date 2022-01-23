@@ -6639,4 +6639,25 @@
                                 },
                                 {
                                   "typeIdentifier": "t_bytes32",
-                                  "typeStr
+                                  "typeString": "bytes32"
+                                },
+                                {
+                                  "typeIdentifier": "t_uint256",
+                                  "typeString": "uint256"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 112,
+                              "type": "function (address,address,string memory,uint256,bytes32,uint256)",
+                              "value": "Initiated"
+                            },
+                            "id": 461,
+                            "name": "Identifier",
+                            "src": "4976:9:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": f
