@@ -6727,4 +6727,27 @@
                               "value": "qty"
                             },
                             "id": 466,
-                            "name": "
+                            "name": "Identifier",
+                            "src": "5011:3:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 395,
+                              "type": "bytes32",
+                              "value": "hashedPassword"
+                            },
+                            "id": 467,
+                            "name": "Identifier",
+                            "src": "5016:14:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+          
