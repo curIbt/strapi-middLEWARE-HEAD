@@ -6811,4 +6811,35 @@
                       }
                     ],
                     "id": 473,
-                   
+                    "name": "ExpressionStatement",
+                    "src": "4976:91:0"
+                  }
+                ],
+                "id": 474,
+                "name": "Block",
+                "src": "4598:476:0"
+              }
+            ],
+            "id": 475,
+            "name": "FunctionDefinition",
+            "src": "4497:577:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "implemented": true,
+              "isConstructor": false,
+              "name": "claim",
+              "payable": false,
+              "scope": 644,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name":
