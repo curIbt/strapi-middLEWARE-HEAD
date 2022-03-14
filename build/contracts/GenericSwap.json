@@ -6788,4 +6788,27 @@
                                       ],
                                       "referencedDeclaration": 395,
                                       "type": "bytes32",
-                
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 469,
+                                    "name": "Identifier",
+                                    "src": "5036:14:0"
+                                  }
+                                ],
+                                "id": 470,
+                                "name": "IndexAccess",
+                                "src": "5032:19:0"
+                              }
+                            ],
+                            "id": 471,
+                            "name": "MemberAccess",
+                            "src": "5032:34:0"
+                          }
+                        ],
+                        "id": 472,
+                        "name": "FunctionCall",
+                        "src": "4976:91:0"
+                      }
+                    ],
+                    "id": 473,
+                   
