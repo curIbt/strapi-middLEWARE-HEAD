@@ -6928,4 +6928,29 @@
                       {
                         "attributes": {
                           "constant": false,
-                          "name": "ha
+                          "name": "hashedPassword",
+                          "scope": 562,
+                          "stateVariable": false,
+                          "storageLocation": "default",
+                          "type": "bytes32",
+                          "value": null,
+                          "visibility": "internal"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "name": "bytes32",
+                              "type": "bytes32"
+                            },
+                            "id": 483,
+                            "name": "ElementaryTypeName",
+                            "src": "5241:7:0"
+                          }
+                        ],
+                        "id": 484,
+                        "name": "VariableDeclaration",
+                        "src": "5241:22:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentT
