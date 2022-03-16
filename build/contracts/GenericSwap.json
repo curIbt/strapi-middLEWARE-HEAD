@@ -6867,4 +6867,37 @@
                   }
                 ],
                 "id": 478,
-                "name": 
+                "name": "ParameterList",
+                "src": "5191:15:0"
+              },
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 482,
+                "name": "ParameterList",
+                "src": "5231:0:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "argumentTypes": null,
+                      "overloadedDeclarations": [
+                        null
+                      ],
+                      "referencedDeclaration": 197,
+                      "type": "modifier (string memory)",
+                      "value": "canClaim"
+                    },
+                    "id": 479,
+                    "name": "Identifier",
+                    "src": "5207:8:0"
+                  },
+                  {
+                    "attributes": {
+                      "argumentTypes": null,
+             
