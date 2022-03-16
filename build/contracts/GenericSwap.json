@@ -6900,4 +6900,32 @@
                   {
                     "attributes": {
                       "argumentTypes": null,
-             
+                      "overloadedDeclarations": [
+                        null
+                      ],
+                      "referencedDeclaration": 477,
+                      "type": "string memory",
+                      "value": "secret"
+                    },
+                    "id": 480,
+                    "name": "Identifier",
+                    "src": "5216:6:0"
+                  }
+                ],
+                "id": 481,
+                "name": "ModifierInvocation",
+                "src": "5207:16:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "assignments": [
+                        484
+                      ]
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "constant": false,
+                          "name": "ha
