@@ -6977,4 +6977,27 @@
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration":
+                              "referencedDeclaration": 720,
+                              "type": "function () pure returns (bytes32)",
+                              "value": "sha256"
+                            },
+                            "id": 485,
+                            "name": "Identifier",
+                            "src": "5266:6:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 477,
+                              "type": "string memory",
+                              "value": "secret"
+                            },
+                            "id": 486,
+                            "name": "Identifier",
+                            "src": "5273:6:0"
+                          }
+                        ],
+   
