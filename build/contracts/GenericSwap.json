@@ -7000,4 +7000,29 @@
                             "src": "5273:6:0"
                           }
                         ],
-   
+                        "id": 487,
+                        "name": "FunctionCall",
+                        "src": "5266:14:0"
+                      }
+                    ],
+                    "id": 488,
+                    "name": "VariableDeclarationStatement",
+                    "src": "5241:39:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": "=",
+                          "type": "bool"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+           
