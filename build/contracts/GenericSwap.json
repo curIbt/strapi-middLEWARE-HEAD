@@ -7045,4 +7045,21 @@
                                 },
                                 "children": [
                                   {
- 
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 65,
+                                      "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                      "value": "txs"
+                                    },
+                                    "id": 489,
+                                    "name": "Identifier",
+                                    "src": "5290:3:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
