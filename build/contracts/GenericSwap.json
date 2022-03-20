@@ -7132,4 +7132,26 @@
                             "attributes": {
                               "contractScope": null,
                               "name": "Currency",
-                              "referencedDeclarat
+                              "referencedDeclaration": 98,
+                              "type": "struct GenericSwap.Currency storage pointer"
+                            },
+                            "id": 496,
+                            "name": "UserDefinedTypeName",
+                            "src": "5331:8:0"
+                          }
+                        ],
+                        "id": 497,
+                        "name": "VariableDeclaration",
+                        "src": "5331:20:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": true,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "type": "struct GenericSwap.Currency storage ref"
+                        },
+                        "children": [
+                         
