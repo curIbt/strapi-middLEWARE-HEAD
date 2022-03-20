@@ -7109,4 +7109,27 @@
                     "name": "ExpressionStatement",
                     "src": "5290:31:0"
                   },
-                  
+                  {
+                    "attributes": {
+                      "assignments": [
+                        497
+                      ]
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "constant": false,
+                          "name": "ccy",
+                          "scope": 562,
+                          "stateVariable": false,
+                          "storageLocation": "storage",
+                          "type": "struct GenericSwap.Currency storage pointer",
+                          "value": null,
+                          "visibility": "internal"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "contractScope": null,
+                              "name": "Currency",
+                              "referencedDeclarat
