@@ -7213,4 +7213,29 @@
                                       "referencedDeclaration": 484,
                                       "type": "bytes32",
                                       "value": "hashedPassword"
-                                   
+                                    },
+                                    "id": 500,
+                                    "name": "Identifier",
+                                    "src": "5363:14:0"
+                                  }
+                                ],
+                                "id": 501,
+                                "name": "IndexAccess",
+                                "src": "5359:19:0"
+                              }
+                            ],
+                            "id": 502,
+                            "name": "MemberAccess",
+                            "src": "5359:23:0"
+                          }
+                        ],
+                        "id": 503,
+                        "name": "IndexAccess",
+                        "src": "5354:29:0"
+                      }
+                    ],
+                    "id": 504,
+                    "name": "VariableDeclarationStatement",
+                    "src": "5331:52:0"
+                  },
+                
