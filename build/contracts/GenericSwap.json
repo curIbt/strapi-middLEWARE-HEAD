@@ -7260,4 +7260,24 @@
                               "argumentTypes": null,
                               "isConstant": false,
                               "isLValue": true,
-                              "isPure": 
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "cType",
+                              "referencedDeclaration": 93,
+                              "type": "enum GenericSwap.ccyType"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 497,
+                                  "type": "struct GenericSwap.Currency storage pointer",
+                                  "value": "ccy"
+                                },
+                                "id": 505,
+                                "name": "Identifier",
+                                "src": "5397:3:0"
+         
