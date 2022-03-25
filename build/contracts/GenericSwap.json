@@ -7280,4 +7280,25 @@
                                 "id": 505,
                                 "name": "Identifier",
                                 "src": "5397:3:0"
-         
+                              }
+                            ],
+                            "id": 506,
+                            "name": "MemberAccess",
+                            "src": "5397:9:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": true,
+                              "lValueRequested": false,
+                              "member_name": "Token",
+                              "referencedDeclaration": null,
+                              "type": "enum GenericSwap.ccyType"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloade
