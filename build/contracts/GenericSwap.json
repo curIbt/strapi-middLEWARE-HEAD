@@ -7301,4 +7301,27 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloade
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 72,
+                                  "type": "type(enum GenericSwap.ccyType)",
+                                  "value": "ccyType"
+                                },
+                                "id": 507,
+                                "name": "Identifier",
+                                "src": "5410:7:0"
+                              }
+                            ],
+                            "id": 508,
+                            "name": "MemberAccess",
+                            "src": "5410:13:0"
+                          }
+                        ],
+                        "id": 509,
+                        "name": "BinaryOperation",
+                        "src": "5397:26:0"
+                      },
+                      {
+                        "children": [
+                
