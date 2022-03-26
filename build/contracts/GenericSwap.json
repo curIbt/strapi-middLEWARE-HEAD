@@ -7324,4 +7324,25 @@
                       },
                       {
                         "children": [
-                
+                          {
+                            "attributes": {
+                              "assignments": [
+                                511
+                              ]
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "constant": false,
+                                  "name": "erc",
+                                  "scope": 562,
+                                  "stateVariable": false,
+                                  "storageLocation": "default",
+                                  "type": "contract ERC20",
+                                  "value": null,
+                                  "visibility": "internal"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "contractScope": 
