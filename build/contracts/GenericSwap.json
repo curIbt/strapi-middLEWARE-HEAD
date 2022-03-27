@@ -7402,4 +7402,23 @@
                                       "lValueRequested": false,
                                       "member_name": "tokenAddress",
                                       "referencedDeclaration": 95,
-                 
+                                      "type": "address"
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 497,
+                                          "type": "struct GenericSwap.Currency storage pointer",
+                                          "value": "ccy"
+                                        },
+                                        "id": 513,
+                                        "name": "Identifier",
+                                        "src": "5457:3:0"
+                                      }
+                                    ],
+                                    "id": 514,
+   
