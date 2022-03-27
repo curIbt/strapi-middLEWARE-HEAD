@@ -7345,4 +7345,24 @@
                                 "children": [
                                   {
                                     "attributes": {
-                                      "contractScope": 
+                                      "contractScope": null,
+                                      "name": "ERC20",
+                                      "referencedDeclaration": 59,
+                                      "type": "contract ERC20"
+                                    },
+                                    "id": 510,
+                                    "name": "UserDefinedTypeName",
+                                    "src": "5439:5:0"
+                                  }
+                                ],
+                                "id": 511,
+                                "name": "VariableDeclaration",
+                                "src": "5439:9:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": false,
+                                  "isPure": false,
+                  
