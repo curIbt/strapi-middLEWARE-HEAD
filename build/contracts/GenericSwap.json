@@ -7384,4 +7384,22 @@
                                       ],
                                       "overloadedDeclarations": [
                                         null
-            
+                                      ],
+                                      "referencedDeclaration": 59,
+                                      "type": "type(contract ERC20)",
+                                      "value": "ERC20"
+                                    },
+                                    "id": 512,
+                                    "name": "Identifier",
+                                    "src": "5451:5:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "isConstant": false,
+                                      "isLValue": true,
+                                      "isPure": false,
+                                      "lValueRequested": false,
+                                      "member_name": "tokenAddress",
+                                      "referencedDeclaration": 95,
+                 
