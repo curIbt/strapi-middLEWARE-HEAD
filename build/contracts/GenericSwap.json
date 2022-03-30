@@ -7462,4 +7462,23 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "re
+                                      "referencedDeclaration": 716,
+                                      "type": "function (bool) pure",
+                                      "value": "require"
+                                    },
+                                    "id": 517,
+                                    "name": "Identifier",
+                                    "src": "5488:7:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "isConstant": false,
+                                      "isLValue": false,
+                                      "isPure": false,
+                                      "isStructConstructorCall": false,
+                                      "lValueRequested": false,
+                                      "names": [
+                                        null
+                                      ],
+                  
