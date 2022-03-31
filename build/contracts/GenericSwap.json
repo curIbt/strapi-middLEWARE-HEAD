@@ -7514,4 +7514,22 @@
                                               ],
                                               "referencedDeclaration": 511,
                                               "type": "contract ERC20",
-                                         
+                                              "value": "erc"
+                                            },
+                                            "id": 518,
+                                            "name": "Identifier",
+                                            "src": "5496:3:0"
+                                          }
+                                        ],
+                                        "id": 519,
+                                        "name": "MemberAccess",
+                                        "src": "5496:12:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": true,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                       
