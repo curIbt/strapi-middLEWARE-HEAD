@@ -7499,4 +7499,19 @@
                                           ],
                                           "isConstant": false,
                                           "isLValue": false,
-                  
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "member_name": "transfer",
+                                          "referencedDeclaration": 30,
+                                          "type": "function (address,uint256) external returns (bool)"
+                                        },
+                                        "children": [
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+                                              "referencedDeclaration": 511,
+                                              "type": "contract ERC20",
+                                         
