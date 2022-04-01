@@ -7562,4 +7562,20 @@
                                                 "src": "5509:3:0"
                                               },
                                               {
-                                            
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 484,
+                                                  "type": "bytes32",
+                                                  "value": "hashedPassword"
+                                                },
+                                                "id": 521,
+                                                "name": "Identifier",
+                                                "src": "5513:14:0"
+                                              }
+                                            ],
+                                            "id": 522,
+                                            "name": "IndexAccess",
+      
