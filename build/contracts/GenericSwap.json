@@ -7578,4 +7578,21 @@
                                             ],
                                             "id": 522,
                                             "name": "IndexAccess",
-      
+                                            "src": "5509:19:0"
+                                          }
+                                        ],
+                                        "id": 523,
+                                        "name": "MemberAccess",
+                                        "src": "5509:32:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": true,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "member_name": "qty",
+                                          "referencedDeclaration": 80,
+                                          "type": "uint256"
+ 
