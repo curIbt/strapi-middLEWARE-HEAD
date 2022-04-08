@@ -7624,4 +7624,21 @@
                                               {
                                                 "attributes": {
                                                   "argumentTypes": null,
-                                                  "overloadedDeclarations": 
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 484,
+                                                  "type": "bytes32",
+                                                  "value": "hashedPassword"
+                                                },
+                                                "id": 525,
+                                                "name": "Identifier",
+                                                "src": "5547:14:0"
+                                              }
+                                            ],
+                                            "id": 526,
+                                            "name": "IndexAccess",
+                                            "src": "5543:19:0"
+                                          }
+                                        ],
+   
