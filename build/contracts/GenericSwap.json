@@ -7747,4 +7747,21 @@
                                                   "type": "bytes32",
                                                   "value": "hashedPassword"
                                                 },
-                            
+                                                "id": 533,
+                                                "name": "Identifier",
+                                                "src": "5611:14:0"
+                                              }
+                                            ],
+                                            "id": 534,
+                                            "name": "IndexAccess",
+                                            "src": "5607:19:0"
+                                          }
+                                        ],
+                                        "id": 535,
+                                        "name": "MemberAccess",
+                                        "src": "5607:32:0"
+                                      }
+                                    ],
+                                    "id": 536,
+                                    "name": "MemberAccess",
+                                    "src": "5607:41:0
