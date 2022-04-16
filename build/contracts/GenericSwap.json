@@ -7902,4 +7902,24 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "counterParty",
-                              "referencedDeclara
+                              "referencedDeclaration": 76,
+                              "type": "address"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "type": "struct GenericSwap.TX storage ref"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration":
