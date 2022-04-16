@@ -7882,4 +7882,24 @@
                                   "typeIdentifier": "t_string_memory_ptr",
                                   "typeString": "string memory"
                                 }
-           
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 122,
+                              "type": "function (address,string memory,uint256,string memory)",
+                              "value": "Claimed"
+                            },
+                            "id": 545,
+                            "name": "Identifier",
+                            "src": "5693:7:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "counterParty",
+                              "referencedDeclara
