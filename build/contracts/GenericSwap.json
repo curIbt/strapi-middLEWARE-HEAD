@@ -7941,4 +7941,26 @@
                                       "value": "hashedPassword"
                                     },
                                     "id": 547,
-                             
+                                    "name": "Identifier",
+                                    "src": "5705:14:0"
+                                  }
+                                ],
+                                "id": 548,
+                                "name": "IndexAccess",
+                                "src": "5701:19:0"
+                              }
+                            ],
+                            "id": 549,
+                            "name": "MemberAccess",
+                            "src": "5701:32:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "ccy",
+                              "referencedDeclaration": 78,
+     
