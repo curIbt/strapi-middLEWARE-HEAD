@@ -8001,4 +8001,25 @@
                                       "value": "hashedPassword"
                                     },
                                     "id": 551,
-                     
+                                    "name": "Identifier",
+                                    "src": "5739:14:0"
+                                  }
+                                ],
+                                "id": 552,
+                                "name": "IndexAccess",
+                                "src": "5735:19:0"
+                              }
+                            ],
+                            "id": 553,
+                            "name": "MemberAccess",
+                            "src": "5735:23:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "qty",
+                              "referencedDeclaration"
