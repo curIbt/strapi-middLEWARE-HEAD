@@ -8061,4 +8061,27 @@
                                       "value": "hashedPassword"
                                     },
                                     "id": 555,
-                        
+                                    "name": "Identifier",
+                                    "src": "5764:14:0"
+                                  }
+                                ],
+                                "id": 556,
+                                "name": "IndexAccess",
+                                "src": "5760:19:0"
+                              }
+                            ],
+                            "id": 557,
+                            "name": "MemberAccess",
+                            "src": "5760:23:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 477,
+                              "type": "string memory",
+                              "value": "secret"
+                            },
+                            "id
