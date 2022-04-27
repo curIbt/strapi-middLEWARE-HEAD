@@ -8115,4 +8115,32 @@
               "isConstructor": false,
               "name": "refund",
               "payable": false,
-           
+              "scope": 644,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "hashedPassword",
+                      "scope": 643,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "bytes32",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "bytes32",
+                          "type": "bytes32"
+                        },
+                        "id": 563,
+                        "name": "ElementaryTypeName",
+                        "src": "5896:7:0"
+                  
