@@ -8143,4 +8143,35 @@
                         "id": 563,
                         "name": "ElementaryTypeName",
                         "src": "5896:7:0"
-                  
+                      }
+                    ],
+                    "id": 564,
+                    "name": "VariableDeclaration",
+                    "src": "5896:22:0"
+                  }
+                ],
+                "id": 565,
+                "name": "ParameterList",
+                "src": "5895:24:0"
+              },
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 569,
+                "name": "ParameterList",
+                "src": "5953:0:0"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "argumentTypes": null,
+                      "overloadedDeclarations": [
+                        null
+                      ],
+                      "referencedDeclaration": 239,
+                      "type": "modifier (b
