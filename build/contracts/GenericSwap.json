@@ -8174,4 +8174,34 @@
                         null
                       ],
                       "referencedDeclaration": 239,
-                      "type": "modifier (b
+                      "type": "modifier (bytes32)",
+                      "value": "canRefund"
+                    },
+                    "id": 566,
+                    "name": "Identifier",
+                    "src": "5920:9:0"
+                  },
+                  {
+                    "attributes": {
+                      "argumentTypes": null,
+                      "overloadedDeclarations": [
+                        null
+                      ],
+                      "referencedDeclaration": 564,
+                      "type": "bytes32",
+                      "value": "hashedPassword"
+                    },
+                    "id": 567,
+                    "name": "Identifier",
+                    "src": "5930:14:0"
+                  }
+                ],
+                "id": 568,
+                "name": "ModifierInvocation",
+                "src": "5920:25:0"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                 
