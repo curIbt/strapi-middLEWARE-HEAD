@@ -8287,4 +8287,32 @@
                               "token": "bool",
                               "type": "bool",
                               "value": "true"
-     
+                            },
+                            "id": 574,
+                            "name": "Literal",
+                            "src": "5990:4:0"
+                          }
+                        ],
+                        "id": 575,
+                        "name": "Assignment",
+                        "src": "5963:31:0"
+                      }
+                    ],
+                    "id": 576,
+                    "name": "ExpressionStatement",
+                    "src": "5963:31:0"
+                  },
+                  {
+                    "attributes": {
+                      "assignments": [
+                        578
+                      ]
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "constant": false,
+                          "name": "ccy",
+                          "scope": 643,
+                          "stateVariable": false,
+   
