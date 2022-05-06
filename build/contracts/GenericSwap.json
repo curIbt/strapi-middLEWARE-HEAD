@@ -8315,4 +8315,25 @@
                           "name": "ccy",
                           "scope": 643,
                           "stateVariable": false,
-   
+                          "storageLocation": "storage",
+                          "type": "struct GenericSwap.Currency storage pointer",
+                          "value": null,
+                          "visibility": "internal"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "contractScope": null,
+                              "name": "Currency",
+                              "referencedDeclaration": 98,
+                              "type": "struct GenericSwap.Currency storage pointer"
+                            },
+                            "id": 577,
+                            "name": "UserDefinedTypeName",
+                            "src": "6004:8:0"
+                          }
+                        ],
+                        "id": 578,
+                        "name": "VariableDeclaration",
+                        "src": "6004:20:0"
+                  
