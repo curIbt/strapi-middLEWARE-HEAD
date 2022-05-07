@@ -8357,4 +8357,26 @@
                               "type": "mapping(string memory => struct GenericSwap.Currency storage ref)",
                               "value": "ccys"
                             },
-      
+                            "id": 579,
+                            "name": "Identifier",
+                            "src": "6027:4:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "ccy",
+                              "referencedDeclaration": 78,
+                              "type": "string storage ref"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                    
