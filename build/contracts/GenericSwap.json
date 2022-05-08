@@ -8415,4 +8415,30 @@
                                 "id": 582,
                                 "name": "IndexAccess",
                                 "src": "6032:19:0"
-          
+                              }
+                            ],
+                            "id": 583,
+                            "name": "MemberAccess",
+                            "src": "6032:23:0"
+                          }
+                        ],
+                        "id": 584,
+                        "name": "IndexAccess",
+                        "src": "6027:29:0"
+                      }
+                    ],
+                    "id": 585,
+                    "name": "VariableDeclarationStatement",
+                    "src": "6004:52:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "commonType": {
+                            "typeIdentifier": "t_enum$_ccyType_$72",
+                            "typeString": "enum GenericSwap.ccyType"
+                          },
+                          "isConstant": false,
+       
