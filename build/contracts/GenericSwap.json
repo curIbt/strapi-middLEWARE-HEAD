@@ -8441,4 +8441,26 @@
                             "typeString": "enum GenericSwap.ccyType"
                           },
                           "isConstant": false,
-       
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": "==",
+                          "type": "bool"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "cType",
+                              "referencedDeclaration": 93,
+                              "type": "enum GenericSwap.ccyType"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "
