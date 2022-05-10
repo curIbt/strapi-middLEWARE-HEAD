@@ -8463,4 +8463,25 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 578,
+                                  "type": "struct GenericSwap.Currency storage pointer",
+                                  "value": "ccy"
+                                },
+                                "id": 586,
+                                "name": "Identifier",
+                                "src": "6070:3:0"
+                              }
+                            ],
+                            "id": 587,
+                            "name": "MemberAccess",
+                            "src": "6070:9:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": false,
+                              "is
