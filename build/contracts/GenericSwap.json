@@ -8484,4 +8484,23 @@
                               "argumentTypes": null,
                               "isConstant": false,
                               "isLValue": false,
-                              "is
+                              "isPure": true,
+                              "lValueRequested": false,
+                              "member_name": "Token",
+                              "referencedDeclaration": null,
+                              "type": "enum GenericSwap.ccyType"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 72,
+                                  "type": "type(enum GenericSwap.ccyType)",
+                                  "value": "ccyType"
+                                },
+                                "id": 588,
+                                "name": "Identifier",
+                                "src": "6083:
