@@ -8503,4 +8503,30 @@
                                 },
                                 "id": 588,
                                 "name": "Identifier",
-                                "src": "6083:
+                                "src": "6083:7:0"
+                              }
+                            ],
+                            "id": 589,
+                            "name": "MemberAccess",
+                            "src": "6083:13:0"
+                          }
+                        ],
+                        "id": 590,
+                        "name": "BinaryOperation",
+                        "src": "6070:26:0"
+                      },
+                      {
+                        "children": [
+                          {
+                            "attributes": {
+                              "assignments": [
+                                592
+                              ]
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "constant": false,
+                                  "name": "erc",
+                                  "scope": 643,
+          
