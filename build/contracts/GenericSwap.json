@@ -8529,4 +8529,22 @@
                                   "constant": false,
                                   "name": "erc",
                                   "scope": 643,
-          
+                                  "stateVariable": false,
+                                  "storageLocation": "default",
+                                  "type": "contract ERC20",
+                                  "value": null,
+                                  "visibility": "internal"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "contractScope": null,
+                                      "name": "ERC20",
+                                      "referencedDeclaration": 59,
+                                      "type": "contract ERC20"
+                                    },
+                                    "id": 591,
+                                    "name": "UserDefinedTypeName",
+                                    "src": "6112:5:0"
+                                  }
+                           
