@@ -8568,4 +8568,24 @@
                                 },
                                 "children": [
                                   {
-                                    "attri
+                                    "attributes": {
+                                      "argumentTypes": [
+                                        {
+                                          "typeIdentifier": "t_address",
+                                          "typeString": "address"
+                                        }
+                                      ],
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 59,
+                                      "type": "type(contract ERC20)",
+                                      "value": "ERC20"
+                                    },
+                                    "id": 593,
+                                    "name": "Identifier",
+                                    "src": "6124:5:0"
+                                  },
+                                  {
+                                    "attributes": {
+              
