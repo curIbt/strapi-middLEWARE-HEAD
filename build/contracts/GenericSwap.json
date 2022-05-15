@@ -8547,4 +8547,25 @@
                                     "name": "UserDefinedTypeName",
                                     "src": "6112:5:0"
                                   }
-                           
+                                ],
+                                "id": 592,
+                                "name": "VariableDeclaration",
+                                "src": "6112:9:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": false,
+                                  "isPure": false,
+                                  "isStructConstructorCall": false,
+                                  "lValueRequested": false,
+                                  "names": [
+                                    null
+                                  ],
+                                  "type": "contract ERC20",
+                                  "type_conversion": true
+                                },
+                                "children": [
+                                  {
+                                    "attri
