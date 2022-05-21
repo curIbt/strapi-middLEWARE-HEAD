@@ -8605,4 +8605,24 @@
                                             null
                                           ],
                                           "referencedDeclaration": 578,
-                        
+                                          "type": "struct GenericSwap.Currency storage pointer",
+                                          "value": "ccy"
+                                        },
+                                        "id": 594,
+                                        "name": "Identifier",
+                                        "src": "6130:3:0"
+                                      }
+                                    ],
+                                    "id": 595,
+                                    "name": "MemberAccess",
+                                    "src": "6130:16:0"
+                                  }
+                                ],
+                                "id": 596,
+                                "name": "FunctionCall",
+                                "src": "6124:23:0"
+                              }
+                            ],
+                            "id": 597,
+                            "name": "VariableDeclarationStatement",
+                            "src": "6112:35:
