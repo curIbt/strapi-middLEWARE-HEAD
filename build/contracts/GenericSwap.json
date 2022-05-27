@@ -8699,4 +8699,20 @@
                                           "type": "function (address,uint256) external returns (bool)"
                                         },
                                         "children": [
-                
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+                                              "referencedDeclaration": 592,
+                                              "type": "contract ERC20",
+                                              "value": "erc"
+                                            },
+                                            "id": 599,
+                                            "name": "Identifier",
+                                            "src": "6169:3:0"
+                                          }
+                                        ],
+                                        "id": 600,
+                            
