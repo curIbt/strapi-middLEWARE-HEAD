@@ -8683,4 +8683,20 @@
                                           "argumentTypes": [
                                             {
                                               "typeIdentifier": "t_address",
-                                      
+                                              "typeString": "address"
+                                            },
+                                            {
+                                              "typeIdentifier": "t_uint256",
+                                              "typeString": "uint256"
+                                            }
+                                          ],
+                                          "isConstant": false,
+                                          "isLValue": false,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "member_name": "transfer",
+                                          "referencedDeclaration": 30,
+                                          "type": "function (address,uint256) external returns (bool)"
+                                        },
+                                        "children": [
+                
