@@ -8715,4 +8715,21 @@
                                           }
                                         ],
                                         "id": 600,
-                            
+                                        "name": "MemberAccess",
+                                        "src": "6169:12:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": true,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "member_name": "tradingParty",
+                                          "referencedDeclaration": 74,
+                                          "type": "address"
+                                        },
+                                        "children": [
+                                          {
+                                            "attributes": {
+                                              "argu
