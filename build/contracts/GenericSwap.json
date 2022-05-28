@@ -8732,4 +8732,19 @@
                                         "children": [
                                           {
                                             "attributes": {
-                                              "argu
+                                              "argumentTypes": null,
+                                              "isConstant": false,
+                                              "isLValue": true,
+                                              "isPure": false,
+                                              "lValueRequested": false,
+                                              "type": "struct GenericSwap.TX storage ref"
+                                            },
+                                            "children": [
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 65,
+                                                  "type": "mapping(bytes32 
