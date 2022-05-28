@@ -8762,4 +8762,22 @@
                                                   ],
                                                   "referencedDeclaration": 564,
                                                   "type": "bytes32",
-                                       
+                                                  "value": "hashedPassword"
+                                                },
+                                                "id": 602,
+                                                "name": "Identifier",
+                                                "src": "6186:14:0"
+                                              }
+                                            ],
+                                            "id": 603,
+                                            "name": "IndexAccess",
+                                            "src": "6182:19:0"
+                                          }
+                                        ],
+                                        "id": 604,
+                                        "name": "MemberAccess",
+                                        "src": "6182:32:0"
+                                      },
+                                      {
+                                        "attributes": {
+           
