@@ -8811,4 +8811,20 @@
                                                   "value": "txs"
                                                 },
                                                 "id": 605,
-                              
+                                                "name": "Identifier",
+                                                "src": "6216:3:0"
+                                              },
+                                              {
+                                                "attributes": {
+                                                  "argumentTypes": null,
+                                                  "overloadedDeclarations": [
+                                                    null
+                                                  ],
+                                                  "referencedDeclaration": 564,
+                                                  "type": "bytes32",
+                                                  "value": "hashedPassword"
+                                                },
+                                                "id": 606,
+                                                "name": "Identifier",
+                                                "src": "6220:14:0"
+                                            
