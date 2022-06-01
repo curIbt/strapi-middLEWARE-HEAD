@@ -8827,4 +8827,23 @@
                                                 "id": 606,
                                                 "name": "Identifier",
                                                 "src": "6220:14:0"
-                                            
+                                              }
+                                            ],
+                                            "id": 607,
+                                            "name": "IndexAccess",
+                                            "src": "6216:19:0"
+                                          }
+                                        ],
+                                        "id": 608,
+                                        "name": "MemberAccess",
+                                        "src": "6216:23:0"
+                                      }
+                                    ],
+                                    "id": 609,
+                                    "name": "FunctionCall",
+                                    "src": "6169:71:0"
+                                  }
+                                ],
+                                "id": 610,
+                                "name": "FunctionCall",
+                        
