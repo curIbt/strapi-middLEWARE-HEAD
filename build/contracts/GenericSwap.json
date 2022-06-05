@@ -8888,4 +8888,19 @@
                                       "isConstant": false,
                                       "isLValue": false,
                                       "isPure": false,
-  
+                                      "lValueRequested": false,
+                                      "member_name": "transfer",
+                                      "referencedDeclaration": null,
+                                      "type": "function (uint256)"
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": true,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "member_name": "tradingParty",
+                                          "referencedDeclaration": 74,
+                                      
