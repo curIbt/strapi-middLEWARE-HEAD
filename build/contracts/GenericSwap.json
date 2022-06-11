@@ -8950,4 +8950,22 @@
                                             "src": "6280:19:0"
                                           }
                                         ],
-                               
+                                        "id": 616,
+                                        "name": "MemberAccess",
+                                        "src": "6280:32:0"
+                                      }
+                                    ],
+                                    "id": 617,
+                                    "name": "MemberAccess",
+                                    "src": "6280:41:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "isConstant": false,
+                                      "isLValue": true,
+                                      "isPure": false,
+                                      "lValueRequested": false,
+                                      "member_name": "qty",
+                                      "referencedDeclaration": 80,
+                                      "type": "ui
