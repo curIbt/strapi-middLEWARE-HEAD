@@ -8968,4 +8968,20 @@
                                       "lValueRequested": false,
                                       "member_name": "qty",
                                       "referencedDeclaration": 80,
-                                      "type": "ui
+                                      "type": "uint256"
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "isConstant": false,
+                                          "isLValue": true,
+                                          "isPure": false,
+                                          "lValueRequested": false,
+                                          "type": "struct GenericSwap.TX storage ref"
+                                        },
+                                        "children": [
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "overloadedDeclara
