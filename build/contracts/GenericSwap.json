@@ -8984,4 +8984,21 @@
                                           {
                                             "attributes": {
                                               "argumentTypes": null,
-                                              "overloadedDeclara
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+                                              "referencedDeclaration": 65,
+                                              "type": "mapping(bytes32 => struct GenericSwap.TX storage ref)",
+                                              "value": "txs"
+                                            },
+                                            "id": 618,
+                                            "name": "Identifier",
+                                            "src": "6322:3:0"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "argumentTypes": null,
+                                              "overloadedDeclarations": [
+                                                null
+                                              ],
+             
