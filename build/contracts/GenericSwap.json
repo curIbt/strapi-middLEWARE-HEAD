@@ -9001,4 +9001,22 @@
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-             
+                                              "referencedDeclaration": 564,
+                                              "type": "bytes32",
+                                              "value": "hashedPassword"
+                                            },
+                                            "id": 619,
+                                            "name": "Identifier",
+                                            "src": "6326:14:0"
+                                          }
+                                        ],
+                                        "id": 620,
+                                        "name": "IndexAccess",
+                                        "src": "6322:19:0"
+                                      }
+                                    ],
+                                    "id": 621,
+                                    "name": "MemberAccess",
+                                    "src": "6322:23:0"
+                                  }
+                         
