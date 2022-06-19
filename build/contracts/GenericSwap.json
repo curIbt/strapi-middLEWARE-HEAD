@@ -9126,4 +9126,23 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                      
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 564,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 628,
+                                    "name": "Identifier",
+                                    "src": "6379:14:0"
+                                  }
+                                ],
+                                "id": 629,
+                                "name": "IndexAccess",
+                                "src": "6375:19:0"
+                              }
+                            ],
+                            "id": 630,
+                            "name": "MemberAccess",
+                            "src": "6375
