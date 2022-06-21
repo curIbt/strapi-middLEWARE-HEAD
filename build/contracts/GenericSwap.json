@@ -9185,4 +9185,23 @@
                                   },
                                   {
                                     "attributes": {
-            
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 564,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 632,
+                                    "name": "Identifier",
+                                    "src": "6413:14:0"
+                                  }
+                                ],
+                                "id": 633,
+                                "name": "IndexAccess",
+                                "src": "6409:19:0"
+                              }
+                            ],
+                            "id": 634,
+                  
