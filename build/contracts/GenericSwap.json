@@ -9244,4 +9244,23 @@
                                     "src": "6434:3:0"
                                   },
                                   {
-        
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 564,
+                                      "type": "bytes32",
+                                      "value": "hashedPassword"
+                                    },
+                                    "id": 636,
+                                    "name": "Identifier",
+                                    "src": "6438:14:0"
+                                  }
+                                ],
+                                "id": 637,
+                                "name": "IndexAccess",
+                                "src": "6434:19:0"
+                              }
+                            ],
+                            "id": 63
