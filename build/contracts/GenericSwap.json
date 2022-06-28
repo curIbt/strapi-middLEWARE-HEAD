@@ -9263,4 +9263,28 @@
                                 "src": "6434:19:0"
                               }
                             ],
-                            "id": 63
+                            "id": 638,
+                            "name": "MemberAccess",
+                            "src": "6434:23:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 564,
+                              "type": "bytes32",
+                              "value": "hashedPassword"
+                            },
+                            "id": 639,
+                            "name": "Identifier",
+                            "src": "6459:14:0"
+                          }
+                        ],
+                        "id": 640,
+                        "name": "FunctionCall",
+                        "src": "6366:108:0"
+                      }
+                    ],
+                    "id":
