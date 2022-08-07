@@ -489,4 +489,41 @@
             "name": "FunctionDefinition",
             "src": "53:97:0"
           }
- 
+        ],
+        "id": 13,
+        "name": "ContractDefinition",
+        "src": "26:126:0"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            361
+          ],
+          "name": "TokenERC20",
+          "scope": 362
+        },
+        "children": [
+          {
+            "attributes": {
+              "constant": false,
+              "name": "name",
+              "scope": 361,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "string storage ref",
+              "value": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "name"
