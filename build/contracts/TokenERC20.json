@@ -456,4 +456,37 @@
                     "children": [
                       {
                         "attributes": {
-                    
+                          "name": "bytes",
+                          "type": "bytes storage pointer"
+                        },
+                        "id": 8,
+                        "name": "ElementaryTypeName",
+                        "src": "125:5:0"
+                      }
+                    ],
+                    "id": 9,
+                    "name": "VariableDeclaration",
+                    "src": "125:16:0"
+                  }
+                ],
+                "id": 10,
+                "name": "ParameterList",
+                "src": "77:65:0"
+              },
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 11,
+                "name": "ParameterList",
+                "src": "149:0:0"
+              }
+            ],
+            "id": 12,
+            "name": "FunctionDefinition",
+            "src": "53:97:0"
+          }
+ 
