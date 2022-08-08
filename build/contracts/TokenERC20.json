@@ -592,4 +592,35 @@
                   "isLValue": false,
                   "isPure": true,
                   "lValueRequested": false,
-     
+                  "subdenomination": null,
+                  "token": "number",
+                  "type": "int_const 18",
+                  "value": "18"
+                },
+                "id": 19,
+                "name": "Literal",
+                "src": "291:2:0"
+              }
+            ],
+            "id": 20,
+            "name": "VariableDeclaration",
+            "src": "267:26:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "name": "totalSupply",
+              "scope": 361,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "uint256",
+              "value": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "name": "uint256",
+                  "type": "uint256"
+                },
+      
