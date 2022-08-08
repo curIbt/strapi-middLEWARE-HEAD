@@ -526,4 +526,37 @@
             "children": [
               {
                 "attributes": {
-                  "name"
+                  "name": "string",
+                  "type": "string storage pointer"
+                },
+                "id": 14,
+                "name": "ElementaryTypeName",
+                "src": "217:6:0"
+              }
+            ],
+            "id": 15,
+            "name": "VariableDeclaration",
+            "src": "217:18:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "name": "symbol",
+              "scope": 361,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "string storage ref",
+              "value": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "name": "string",
+                  "type": "string storage pointer"
+                },
+                "id": 16,
+                "name": "ElementaryTypeName",
+                "src": "241:6:0"
+              }
+        
