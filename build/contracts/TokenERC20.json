@@ -559,4 +559,37 @@
                 "name": "ElementaryTypeName",
                 "src": "241:6:0"
               }
-        
+            ],
+            "id": 17,
+            "name": "VariableDeclaration",
+            "src": "241:20:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "name": "decimals",
+              "scope": 361,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "uint8",
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "name": "uint8",
+                  "type": "uint8"
+                },
+                "id": 18,
+                "name": "ElementaryTypeName",
+                "src": "267:5:0"
+              },
+              {
+                "attributes": {
+                  "argumentTypes": null,
+                  "hexvalue": "3138",
+                  "isConstant": false,
+                  "isLValue": false,
+                  "isPure": true,
+                  "lValueRequested": false,
+     
