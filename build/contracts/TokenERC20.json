@@ -623,4 +623,36 @@
                   "name": "uint256",
                   "type": "uint256"
                 },
-      
+                "id": 21,
+                "name": "ElementaryTypeName",
+                "src": "371:7:0"
+              }
+            ],
+            "id": 22,
+            "name": "VariableDeclaration",
+            "src": "371:26:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "name": "balanceOf",
+              "scope": 361,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "mapping(address => uint256)",
+              "value": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "type": "mapping(address => uint256)"
+                },
+                "children": [
+                  {
+                    "attributes": {
+                      "name": "address",
+                      "type": "address"
+                    },
+                    "id": 23,
+                    "name": "ElementaryTypeNam
