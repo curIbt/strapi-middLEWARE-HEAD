@@ -655,4 +655,37 @@
                       "type": "address"
                     },
                     "id": 23,
-                    "name": "ElementaryTypeNam
+                    "name": "ElementaryTypeName",
+                    "src": "460:7:0"
+                  },
+                  {
+                    "attributes": {
+                      "name": "uint256",
+                      "type": "uint256"
+                    },
+                    "id": 24,
+                    "name": "ElementaryTypeName",
+                    "src": "471:7:0"
+                  }
+                ],
+                "id": 25,
+                "name": "Mapping",
+                "src": "451:28:0"
+              }
+            ],
+            "id": 26,
+            "name": "VariableDeclaration",
+            "src": "451:45:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "name": "allowance",
+              "scope": 361,
+              "stateVariable": true,
+              "storageLocation": "default",
+              "type": "mapping(address => mapping(address => uint256))",
+              "value": null,
+              "visibility": "public"
+            },
+            "c
