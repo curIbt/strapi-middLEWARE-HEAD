@@ -717,4 +717,37 @@
                         "name": "ElementaryTypeName",
                         "src": "531:7:0"
                       },
-         
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 29,
+                        "name": "ElementaryTypeName",
+                        "src": "542:7:0"
+                      }
+                    ],
+                    "id": 30,
+                    "name": "Mapping",
+                    "src": "522:28:0"
+                  }
+                ],
+                "id": 31,
+                "name": "Mapping",
+                "src": "502:49:0"
+              }
+            ],
+            "id": 32,
+            "name": "VariableDeclaration",
+            "src": "502:66:0"
+          },
+          {
+            "attributes": {
+              "anonymous": false,
+              "name": "Transfer"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": 
