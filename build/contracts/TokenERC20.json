@@ -829,4 +829,37 @@
                     "id": 38,
                     "name": "VariableDeclaration",
                     "src": "712:13:0"
-             
+                  }
+                ],
+                "id": 39,
+                "name": "ParameterList",
+                "src": "669:57:0"
+              }
+            ],
+            "id": 40,
+            "name": "EventDefinition",
+            "src": "655:72:0"
+          },
+          {
+            "attributes": {
+              "anonymous": false,
+              "name": "Burn"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "indexed": true,
+                      "name": "from",
+                      "scope": 46,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "address",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "at
