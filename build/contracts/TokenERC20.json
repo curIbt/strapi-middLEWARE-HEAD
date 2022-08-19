@@ -890,4 +890,37 @@
                     "children": [
                       {
                         "attributes": {
-                          "nam
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 43,
+                        "name": "ElementaryTypeName",
+                        "src": "818:7:0"
+                      }
+                    ],
+                    "id": 44,
+                    "name": "VariableDeclaration",
+                    "src": "818:13:0"
+                  }
+                ],
+                "id": 45,
+                "name": "ParameterList",
+                "src": "795:37:0"
+              }
+            ],
+            "id": 46,
+            "name": "EventDefinition",
+            "src": "785:48:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "implemented": true,
+              "isConstructor": true,
+              "modifiers": [
+                null
+              ],
+              "name": "TokenERC20",
+              "payable": false,
+              "scope": 361,
+              "stateMu
