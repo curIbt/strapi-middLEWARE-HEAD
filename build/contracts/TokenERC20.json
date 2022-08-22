@@ -1033,4 +1033,28 @@
                           "argumentTypes": null,
                           "isConstant": false,
                           "isLValue": false,
-                       
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": "=",
+                          "type": "uint256"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 22,
+                              "type": "uint256",
+                              "value": "totalSupply"
+                            },
+                            "id": 55,
+                            "name": "Identifier",
+                            "src": "1091:11:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "commonType": {
+      
