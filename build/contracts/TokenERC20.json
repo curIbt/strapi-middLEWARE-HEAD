@@ -1096,4 +1096,22 @@
                                   "operator": "**",
                                   "type": "uint256"
                                 },
-                                "chil
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "hexvalue": "3130",
+                                      "isConstant": false,
+                                      "isLValue": false,
+                                      "isPure": true,
+                                      "lValueRequested": false,
+                                      "subdenomination": null,
+                                      "token": "number",
+                                      "type": "int_const 10",
+                                      "value": "10"
+                                    },
+                                    "id": 57,
+                                    "name": "Literal",
+                                    "src": "1121:2:0"
+                                  },
+                      
