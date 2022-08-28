@@ -1077,4 +1077,23 @@
                                   "referencedDeclaration": 48,
                                   "type": "uint256",
                                   "value": "initialSupply"
-                   
+                                },
+                                "id": 56,
+                                "name": "Identifier",
+                                "src": "1105:13:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "commonType": {
+                                    "typeIdentifier": "t_uint256",
+                                    "typeString": "uint256"
+                                  },
+                                  "isConstant": false,
+                                  "isLValue": false,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                                  "operator": "**",
+                                  "type": "uint256"
+                                },
+                                "chil
