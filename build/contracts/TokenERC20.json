@@ -1132,4 +1132,22 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": [
-                              
+                                            {
+                                              "typeIdentifier": "t_uint8",
+                                              "typeString": "uint8"
+                                            }
+                                          ],
+                                          "isConstant": false,
+                                          "isLValue": false,
+                                          "isPure": true,
+                                          "lValueRequested": false,
+                                          "type": "type(uint256)",
+                                          "value": "uint256"
+                                        },
+                                        "id": 58,
+                                        "name": "ElementaryTypeNameExpression",
+                                        "src": "1127:7:0"
+                                      },
+                                      {
+                                        "attributes": {
+                          
