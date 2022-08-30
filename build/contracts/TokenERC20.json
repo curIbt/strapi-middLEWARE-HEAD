@@ -1150,4 +1150,23 @@
                                       },
                                       {
                                         "attributes": {
-                          
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 20,
+                                          "type": "uint8",
+                                          "value": "decimals"
+                                        },
+                                        "id": 59,
+                                        "name": "Identifier",
+                                        "src": "1135:8:0"
+                                      }
+                                    ],
+                                    "id": 60,
+                                    "name": "FunctionCall",
+                                    "src": "1127:17:0"
+                                  }
+                                ],
+                                "id": 61,
+                     
