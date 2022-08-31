@@ -1236,4 +1236,25 @@
                                   "type": "address"
                                 },
                                 "children": [
-                            
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 373,
+                                      "type": "msg",
+                                      "value": "msg"
+                                    },
+                                    "id": 66,
+                                    "name": "Identifier",
+                                    "src": "1212:3:0"
+                                  }
+                                ],
+                                "id": 67,
+                                "name": "MemberAccess",
+                                "src": "1212:10:0"
+                              }
+                            ],
+                            "id": 68,
+                            "name": "IndexAccess
