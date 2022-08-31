@@ -1257,4 +1257,29 @@
                               }
                             ],
                             "id": 68,
-                            "name": "IndexAccess
+                            "name": "IndexAccess",
+                            "src": "1202:21:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 22,
+                              "type": "uint256",
+                              "value": "totalSupply"
+                            },
+                            "id": 69,
+                            "name": "Identifier",
+                            "src": "1226:11:0"
+                          }
+                        ],
+                        "id": 70,
+                        "name": "Assignment",
+                        "src": "1202:35:0"
+                      }
+                    ],
+                    "id": 71,
+                    "name": "ExpressionStatement",
+                    "s
