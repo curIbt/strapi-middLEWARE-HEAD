@@ -1305,4 +1305,29 @@
                               ],
                               "referencedDeclaration": 15,
                               "type": "string storage ref",
-                              "valu
+                              "value": "name"
+                            },
+                            "id": 72,
+                            "name": "Identifier",
+                            "src": "1301:4:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 50,
+                              "type": "string memory",
+                              "value": "tokenName"
+                            },
+                            "id": 73,
+                            "name": "Identifier",
+                            "src": "1308:9:0"
+                          }
+                        ],
+                        "id": 74,
+                        "name": "Assignment",
+                        "src": "1301:16:0"
+                      }
+               
