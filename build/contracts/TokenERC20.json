@@ -1355,4 +1355,26 @@
                                 null
                               ],
                               "referencedDeclaration": 17,
-                              "t
+                              "type": "string storage ref",
+                              "value": "symbol"
+                            },
+                            "id": 76,
+                            "name": "Identifier",
+                            "src": "1398:6:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 52,
+                              "type": "string memory",
+                              "value": "tokenSymbol"
+                            },
+                            "id": 77,
+                            "name": "Identifier",
+                            "src": "1407:11:0"
+                          }
+                        ],
+                        "id": 78
