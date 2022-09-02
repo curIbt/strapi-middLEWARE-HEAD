@@ -1330,4 +1330,29 @@
                         "name": "Assignment",
                         "src": "1301:16:0"
                       }
-               
+                    ],
+                    "id": 75,
+                    "name": "ExpressionStatement",
+                    "src": "1301:16:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "lValueRequested": false,
+                          "operator": "=",
+                          "type": "string storage ref"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 17,
+                              "t
