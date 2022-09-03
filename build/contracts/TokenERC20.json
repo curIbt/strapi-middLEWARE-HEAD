@@ -1377,4 +1377,36 @@
                             "src": "1407:11:0"
                           }
                         ],
-                        "id": 78
+                        "id": 78,
+                        "name": "Assignment",
+                        "src": "1398:20:0"
+                      }
+                    ],
+                    "id": 79,
+                    "name": "ExpressionStatement",
+                    "src": "1398:20:0"
+                  }
+                ],
+                "id": 80,
+                "name": "Block",
+                "src": "1081:413:0"
+              }
+            ],
+            "id": 81,
+            "name": "FunctionDefinition",
+            "src": "975:519:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "implemented": true,
+              "isConstructor": false,
+              "modifiers": [
+                null
+              ],
+              "name": "_transfer",
+              "payable": false,
+              "scope": 361,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "internal"
