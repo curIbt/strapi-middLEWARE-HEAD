@@ -1677,4 +1677,24 @@
                                       "referencedDeclaration": 26,
                                       "type": "mapping(address => uint256)",
                                       "value": "balanceOf"
-                 
+                                    },
+                                    "id": 97,
+                                    "name": "Identifier",
+                                    "src": "1799:9:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 83,
+                                      "type": "address",
+                                      "value": "_from"
+                                    },
+                                    "id": 98,
+                                    "name": "Identifier",
+                                    "src": "1809:5:0"
+                                  }
+                                ],
+                        
