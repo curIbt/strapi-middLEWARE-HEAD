@@ -1746,4 +1746,27 @@
                           "type": "tuple()",
                           "type_conversion": false
                         },
-           
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": [
+                                {
+                                  "typeIdentifier": "t_bool",
+                                  "typeString": "bool"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 376,
+                              "type": "function (bool) pure",
+                              "value": "require"
+                            },
+                            "id": 104,
+                            "name": "Identifier",
+                            "src": "1867:7:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+   
