@@ -1809,4 +1809,21 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-             
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 26,
+                                          "type": "mapping(address => uint256)",
+                                          "value": "balanceOf"
+                                        },
+                                        "id": 105,
+                                        "name": "Identifier",
+                                        "src": "1875:9:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referenced
