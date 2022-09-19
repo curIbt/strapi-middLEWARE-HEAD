@@ -1865,4 +1865,23 @@
                                   "isLValue": true,
                                   "isPure": false,
                                   "lValueRequested": false,
-                
+                                  "type": "uint256"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 26,
+                                      "type": "mapping(address => uint256)",
+                                      "value": "balanceOf"
+                                    },
+                                    "id": 110,
+                                    "name": "Identifier",
+                                    "src": "1901:9:0"
+                                  },
+                                  {
+                                    "attributes": {
+                     
