@@ -1845,4 +1845,24 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
- 
+                                      "referencedDeclaration": 87,
+                                      "type": "uint256",
+                                      "value": "_value"
+                                    },
+                                    "id": 108,
+                                    "name": "Identifier",
+                                    "src": "1892:6:0"
+                                  }
+                                ],
+                                "id": 109,
+                                "name": "BinaryOperation",
+                                "src": "1875:23:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "isConstant": false,
+                                  "isLValue": true,
+                                  "isPure": false,
+                                  "lValueRequested": false,
+                
