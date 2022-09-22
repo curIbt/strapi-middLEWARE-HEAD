@@ -1931,4 +1931,29 @@
                           "stateVariable": false,
                           "storageLocation": "default",
                           "type": "uint256",
-                          "valu
+                          "value": null,
+                          "visibility": "internal"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "name": "uint",
+                              "type": "uint256"
+                            },
+                            "id": 116,
+                            "name": "ElementaryTypeName",
+                            "src": "1978:4:0"
+                          }
+                        ],
+                        "id": 117,
+                        "name": "VariableDeclaration",
+                        "src": "1978:21:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "commonType": {
+                            "typeIdentifier": "t_uint256",
+                            "typeString": "uint256"
+                          },
+                          "isCon
