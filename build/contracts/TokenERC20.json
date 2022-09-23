@@ -2020,4 +2020,25 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "o
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 26,
+                                  "type": "mapping(address => uint256)",
+                                  "value": "balanceOf"
+                                },
+                                "id": 121,
+                                "name": "Identifier",
+                                "src": "2021:9:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 85,
+                                  "type": "address",
+                                  "value": "_to"
+                                },
+                             
