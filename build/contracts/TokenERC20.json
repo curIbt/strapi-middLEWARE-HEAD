@@ -1978,4 +1978,24 @@
                                 "attributes": {
                                   "argumentTypes": null,
                                   "overloadedDeclarations": [
-    
+                                    null
+                                  ],
+                                  "referencedDeclaration": 26,
+                                  "type": "mapping(address => uint256)",
+                                  "value": "balanceOf"
+                                },
+                                "id": 118,
+                                "name": "Identifier",
+                                "src": "2002:9:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 83,
+                                  "type": "address",
+                                  "value": "_from"
+                                },
+  
