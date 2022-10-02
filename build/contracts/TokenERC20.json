@@ -2089,4 +2089,24 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "refe
+                                  "referencedDeclaration": 26,
+                                  "type": "mapping(address => uint256)",
+                                  "value": "balanceOf"
+                                },
+                                "id": 126,
+                                "name": "Identifier",
+                                "src": "2081:9:0"
+                              },
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 83,
+                                  "type": "address",
+                                  "value": "_from"
+                                },
+                                "id": 127,
+                                "name": "Identifier",
+                                "src": "2091:5:0
