@@ -2403,4 +2403,22 @@
                                           "value": "balanceOf"
                                         },
                                         "id": 145,
-          
+                                        "name": "Identifier",
+                                        "src": "2338:9:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 83,
+                                          "type": "address",
+                                          "value": "_from"
+                                        },
+                                        "id": 146,
+                                        "name": "Identifier",
+                                        "src": "2348:5:0"
+                                      }
+                                    ],
+            
