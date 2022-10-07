@@ -2440,4 +2440,22 @@
                                           "argumentTypes": null,
                                           "overloadedDeclarations": [
                                             null
-                                         
+                                          ],
+                                          "referencedDeclaration": 26,
+                                          "type": "mapping(address => uint256)",
+                                          "value": "balanceOf"
+                                        },
+                                        "id": 148,
+                                        "name": "Identifier",
+                                        "src": "2357:9:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 85,
+                                          "type": "address",
+                                          "value": "_to"
+      
