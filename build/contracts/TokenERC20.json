@@ -2505,4 +2505,37 @@
                 ],
                 "id": 156,
                 "name": "Block",
-         
+                "src": "1647:752:0"
+              }
+            ],
+            "id": 157,
+            "name": "FunctionDefinition",
+            "src": "1578:821:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "implemented": true,
+              "isConstructor": false,
+              "modifiers": [
+                null
+              ],
+              "name": "transfer",
+              "payable": false,
+              "scope": 361,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "_to",
+                      "scope": 172,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "address",
+               
