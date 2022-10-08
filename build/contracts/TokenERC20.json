@@ -2479,4 +2479,30 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                           
+                                  "referencedDeclaration": 117,
+                                  "type": "uint256",
+                                  "value": "previousBalances"
+                                },
+                                "id": 152,
+                                "name": "Identifier",
+                                "src": "2375:16:0"
+                              }
+                            ],
+                            "id": 153,
+                            "name": "BinaryOperation",
+                            "src": "2338:53:0"
+                          }
+                        ],
+                        "id": 154,
+                        "name": "FunctionCall",
+                        "src": "2331:61:0"
+                      }
+                    ],
+                    "id": 155,
+                    "name": "ExpressionStatement",
+                    "src": "2331:61:0"
+                  }
+                ],
+                "id": 156,
+                "name": "Block",
+         
