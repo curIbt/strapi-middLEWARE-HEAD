@@ -2622,4 +2622,26 @@
                               "argumentTypes": [
                                 {
                                   "typeIdentifier": "t_address",
-                                  "
+                                  "typeString": "address"
+                                },
+                                {
+                                  "typeIdentifier": "t_address",
+                                  "typeString": "address"
+                                },
+                                {
+                                  "typeIdentifier": "t_uint256",
+                                  "typeString": "uint256"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 157,
+                              "type": "function (address,address,uint256)",
+                              "value": "_transfer"
+                            },
+                            "id": 164,
+                            "name": "Identifier",
+                            "src": "2664:9:0"
+                          },
+                          
