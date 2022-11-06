@@ -2945,4 +2945,20 @@
                                     },
                                     "children": [
                                       {
-                     
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 32,
+                                          "type": "mapping(address => mapping(address => uint256))",
+                                          "value": "allowance"
+                                        },
+                                        "id": 185,
+                                        "name": "Identifier",
+                                        "src": "3098:9:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                   
