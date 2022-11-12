@@ -2997,4 +2997,26 @@
                                           ],
                                           "referencedDeclaration": 373,
                                           "type": "msg",
-                                       
+                                          "value": "msg"
+                                        },
+                                        "id": 188,
+                                        "name": "Identifier",
+                                        "src": "3115:3:0"
+                                      }
+                                    ],
+                                    "id": 189,
+                                    "name": "MemberAccess",
+                                    "src": "3115:10:0"
+                                  }
+                                ],
+                                "id": 190,
+                                "name": "IndexAccess",
+                                "src": "3098:28:0"
+                              }
+                            ],
+                            "id": 191,
+                            "name": "BinaryOperation",
+                            "src": "3088:38:0"
+                          }
+                        ],
+   
