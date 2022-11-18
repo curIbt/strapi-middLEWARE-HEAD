@@ -3102,4 +3102,24 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "sender",
-                  
+                                  "referencedDeclaration": null,
+                                  "type": "address"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 373,
+                                      "type": "msg",
+                                      "value": "msg"
+                                    },
+                                    "id": 196,
+                                    "name": "Identifier",
+                                    "src": "3177:3:0"
+                                  }
+                                ],
+                                "id": 197,
+         
