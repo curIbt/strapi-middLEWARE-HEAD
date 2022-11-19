@@ -3190,4 +3190,25 @@
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration
+                              "referencedDeclaration": 157,
+                              "type": "function (address,address,uint256)",
+                              "value": "_transfer"
+                            },
+                            "id": 203,
+                            "name": "Identifier",
+                            "src": "3208:9:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 174,
+                              "type": "address",
+                              "value": "_from"
+                            },
+                            "id": 204,
+                            "name": "Identifier",
+                            "src": "3218:5:0"
+     
