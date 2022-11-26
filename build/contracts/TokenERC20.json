@@ -3319,4 +3319,31 @@
                     "children": [
                       {
                         "attributes": {
-                          "name": "addr
+                          "name": "address",
+                          "type": "address"
+                        },
+                        "id": 213,
+                        "name": "ElementaryTypeName",
+                        "src": "3541:7:0"
+                      }
+                    ],
+                    "id": 214,
+                    "name": "VariableDeclaration",
+                    "src": "3541:16:0"
+                  },
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "_value",
+                      "scope": 233,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                     
