@@ -3426,4 +3426,23 @@
                                   "isConstant": false,
                                   "isLValue": true,
                                   "isPure": false,
-                                  "lValueRequest
+                                  "lValueRequested": false,
+                                  "type": "mapping(address => uint256)"
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 32,
+                                      "type": "mapping(address => mapping(address => uint256))",
+                                      "value": "allowance"
+                                    },
+                                    "id": 221,
+                                    "name": "Identifier",
+                                    "src": "3619:9:0"
+                                  },
+                                  {
+      
