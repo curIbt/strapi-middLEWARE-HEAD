@@ -3527,4 +3527,30 @@
                     "attributes": {
                       "functionReturnParameters": 220
                     },
-                    "childr
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "hexvalue": "74727565",
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": true,
+                          "lValueRequested": false,
+                          "subdenomination": null,
+                          "token": "bool",
+                          "type": "bool",
+                          "value": "true"
+                        },
+                        "id": 230,
+                        "name": "Literal",
+                        "src": "3676:4:0"
+                      }
+                    ],
+                    "id": 231,
+                    "name": "Return",
+                    "src": "3669:11:0"
+                  }
+                ],
+                "id": 232,
+                "name": "Block",
+              
