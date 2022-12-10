@@ -3553,4 +3553,35 @@
                 ],
                 "id": 232,
                 "name": "Block",
+                "src": "3609:78:0"
+              }
+            ],
+            "id": 233,
+            "name": "FunctionDefinition",
+            "src": "3524:163:0"
+          },
+          {
+            "attributes": {
+              "constant": false,
+              "implemented": true,
+              "isConstructor": false,
+              "modifiers": [
+                null
+              ],
+              "name": "approveAndCall",
+              "payable": false,
+              "scope": 361,
+              "stateMutability": "nonpayable",
+              "superFunction": null,
+              "visibility": "public"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "_spender",
+                      "scope": 269,
+                      "stateVariable": false,
               
