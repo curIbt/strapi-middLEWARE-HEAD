@@ -3697,4 +3697,27 @@
               {
                 "children": [
                   {
-   
+                    "attributes": {
+                      "assignments": [
+                        245
+                      ]
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "constant": false,
+                          "name": "spender",
+                          "scope": 269,
+                          "stateVariable": false,
+                          "storageLocation": "default",
+                          "type": "contract tokenRecipient",
+                          "value": null,
+                          "visibility": "internal"
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "contractScope": null,
+                              "name": "tokenRecipient",
+                              "referencedDeclaration": 13,
+                              "type": "co
