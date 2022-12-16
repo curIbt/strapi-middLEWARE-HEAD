@@ -3720,4 +3720,27 @@
                               "contractScope": null,
                               "name": "tokenRecipient",
                               "referencedDeclaration": 13,
-                              "type": "co
+                              "type": "contract tokenRecipient"
+                            },
+                            "id": 244,
+                            "name": "UserDefinedTypeName",
+                            "src": "4199:14:0"
+                          }
+                        ],
+                        "id": 245,
+                        "name": "VariableDeclaration",
+                        "src": "4199:22:0"
+                      },
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "isStructConstructorCall": false,
+                          "lValueRequested": false,
+                          "names": [
+                            null
+                          ],
+                          "type": "contract tokenRecipient",
+                          "type_c
