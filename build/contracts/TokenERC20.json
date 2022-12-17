@@ -3743,4 +3743,27 @@
                             null
                           ],
                           "type": "contract tokenRecipient",
-                          "type_c
+                          "type_conversion": true
+                        },
+                        "children": [
+                          {
+                            "attributes": {
+                              "argumentTypes": [
+                                {
+                                  "typeIdentifier": "t_address",
+                                  "typeString": "address"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 13,
+                              "type": "type(contract tokenRecipient)",
+                              "value": "tokenRecipient"
+                            },
+                            "id": 246,
+                            "name": "Identifier",
+                            "src": "4224:14:0"
+                          },
+                          {
+                            "attributes": {
