@@ -3838,4 +3838,25 @@
                               "overloadedDeclarations": [
                                 null
                               ],
-                      
+                              "referencedDeclaration": 235,
+                              "type": "address",
+                              "value": "_spender"
+                            },
+                            "id": 251,
+                            "name": "Identifier",
+                            "src": "4270:8:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 237,
+                              "type": "uint256",
+                              "value": "_value"
+                            },
+                            "id": 252,
+                            "name": "Identifier",
+                            "src": "4280:6:0"
+        
