@@ -3882,4 +3882,21 @@
                                   ],
                                   "type": "tuple()",
                                   "type_conversion": false
- 
+                                },
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": [
+                                        {
+                                          "typeIdentifier": "t_address",
+                                          "typeString": "address"
+                                        },
+                                        {
+                                          "typeIdentifier": "t_uint256",
+                                          "typeString": "uint256"
+                                        },
+                                        {
+                                          "typeIdentifier": "t_contract$_TokenERC20_$361",
+                                          "typeString": "contract TokenERC20"
+                                        },
+                                        {
