@@ -3900,3 +3900,20 @@
                                           "typeString": "contract TokenERC20"
                                         },
                                         {
+                                          "typeIdentifier": "t_bytes_memory_ptr",
+                                          "typeString": "bytes memory"
+                                        }
+                                      ],
+                                      "isConstant": false,
+                                      "isLValue": false,
+                                      "isPure": false,
+                                      "lValueRequested": false,
+                                      "member_name": "receiveApproval",
+                                      "referencedDeclaration": 12,
+                                      "type": "function (address,uint256,address,bytes memory) external"
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+              
