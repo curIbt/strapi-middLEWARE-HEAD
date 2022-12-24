@@ -3916,4 +3916,23 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-              
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 245,
+                                          "type": "contract tokenRecipient",
+                                          "value": "spender"
+                                        },
+                                        "id": 254,
+                                        "name": "Identifier",
+                                        "src": "4303:7:0"
+                                      }
+                                    ],
+                                    "id": 256,
+                                    "name": "MemberAccess",
+                                    "src": "4303:23:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+ 
