@@ -3972,4 +3972,24 @@
                                       "referencedDeclaration": 237,
                                       "type": "uint256",
                                       "value": "_value"
-   
+                                    },
+                                    "id": 259,
+                                    "name": "Identifier",
+                                    "src": "4339:6:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 386,
+                                      "type": "contract TokenERC20",
+                                      "value": "this"
+                                    },
+                                    "id": 260,
+                                    "name": "Identifier",
+                                    "src": "4347:4:0"
+                                  },
+                                  {
+                      
