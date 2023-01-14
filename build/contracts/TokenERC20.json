@@ -4303,4 +4303,25 @@
                             "attributes": {
                               "argumentTypes": null,
                               "isConstant": false,
-                              "isLValue": tru
+                              "isLValue": true,
+                              "isPure": false,
+                              "lValueRequested": true,
+                              "type": "uint256"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 26,
+                                  "type": "mapping(address => uint256)",
+                                  "value": "balanceOf"
+                                },
+                                "id": 285,
+                                "name": "Identifier",
+                                "src": "4728:9:0"
+                              },
+                              {
+                    
