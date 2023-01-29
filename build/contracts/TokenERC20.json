@@ -4482,4 +4482,25 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "sender",
-   
+                              "referencedDeclaration": null,
+                              "type": "address"
+                            },
+                            "children": [
+                              {
+                                "attributes": {
+                                  "argumentTypes": null,
+                                  "overloadedDeclarations": [
+                                    null
+                                  ],
+                                  "referencedDeclaration": 373,
+                                  "type": "msg",
+                                  "value": "msg"
+                                },
+                                "id": 297,
+                                "name": "Identifier",
+                                "src": "4888:3:0"
+                              }
+                            ],
+                            "id": 298,
+                            "name": "MemberAccess",
+        
