@@ -4528,4 +4528,30 @@
                     "id": 301,
                     "name": "ExpressionStatement",
                     "src": "4883:24:0"
-          
+                  },
+                  {
+                    "attributes": {
+                      "functionReturnParameters": 275
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "hexvalue": "74727565",
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": true,
+                          "lValueRequested": false,
+                          "subdenomination": null,
+                          "token": "bool",
+                          "type": "bool",
+                          "value": "true"
+                        },
+                        "id": 302,
+                        "name": "Literal",
+                        "src": "4924:4:0"
+                      }
+                    ],
+                    "id": 303,
+                    "name": "Return",
+        
