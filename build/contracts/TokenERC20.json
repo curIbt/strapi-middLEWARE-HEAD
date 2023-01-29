@@ -4460,4 +4460,26 @@
                                 },
                                 {
                                   "typeIdentifier": "t_uint256",
-                               
+                                  "typeString": "uint256"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 46,
+                              "type": "function (address,uint256)",
+                              "value": "Burn"
+                            },
+                            "id": 296,
+                            "name": "Identifier",
+                            "src": "4883:4:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "member_name": "sender",
+   
