@@ -4697,4 +4697,26 @@
                             "attributes": {
                               "argumentTypes": [
                                 {
-                                
+                                  "typeIdentifier": "t_bool",
+                                  "typeString": "bool"
+                                }
+                              ],
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 376,
+                              "type": "function (bool) pure",
+                              "value": "require"
+                            },
+                            "id": 314,
+                            "name": "Identifier",
+                            "src": "5277:7:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "commonType": {
+                                "typeIdentifier": "t_uint256",
+                                "typeString": "uint256"
+                              },
+                              "isConstant": fals
