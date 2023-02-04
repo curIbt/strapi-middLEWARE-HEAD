@@ -4741,4 +4741,22 @@
                                     "attributes": {
                                       "argumentTypes": null,
                                       "overloadedDeclarations": [
-      
+                                        null
+                                      ],
+                                      "referencedDeclaration": 26,
+                                      "type": "mapping(address => uint256)",
+                                      "value": "balanceOf"
+                                    },
+                                    "id": 315,
+                                    "name": "Identifier",
+                                    "src": "5285:9:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 307,
+                                      "type": "address",
+                                      "value"
