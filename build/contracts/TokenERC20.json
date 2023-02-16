@@ -4828,4 +4828,27 @@
                                 null
                               ],
                               "referencedDeclaration": 376,
-                              "type": "function (bool)
+                              "type": "function (bool) pure",
+                              "value": "require"
+                            },
+                            "id": 322,
+                            "name": "Identifier",
+                            "src": "5380:7:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "commonType": {
+                                "typeIdentifier": "t_uint256",
+                                "typeString": "uint256"
+                              },
+                              "isConstant": false,
+                              "isLValue": false,
+                              "isPure": false,
+                              "lValueRequested": false,
+                              "operator": "<=",
+                              "type": "bool"
+                            },
+                            "children": [
+                              {
+                                "a
