@@ -4889,4 +4889,21 @@
                                           "argumentTypes": null,
                                           "overloadedDeclarations": [
                                             null
-                                   
+                                          ],
+                                          "referencedDeclaration": 32,
+                                          "type": "mapping(address => mapping(address => uint256))",
+                                          "value": "allowance"
+                                        },
+                                        "id": 324,
+                                        "name": "Identifier",
+                                        "src": "5398:9:0"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 307,
+                                          "type": "address",
+                  
