@@ -4925,4 +4925,22 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "sender",
-                 
+                                      "referencedDeclaration": null,
+                                      "type": "address"
+                                    },
+                                    "children": [
+                                      {
+                                        "attributes": {
+                                          "argumentTypes": null,
+                                          "overloadedDeclarations": [
+                                            null
+                                          ],
+                                          "referencedDeclaration": 373,
+                                          "type": "msg",
+                                          "value": "msg"
+                                        },
+                                        "id": 327,
+                                        "name": "Identifier",
+                                        "src": "5415:3:0"
+                                      }
+     
