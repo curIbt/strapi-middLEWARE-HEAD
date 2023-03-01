@@ -5080,4 +5080,23 @@
                                   "lValueRequested": false,
                                   "type": "mapping(address => uint256)"
                                 },
-                          
+                                "children": [
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                                        null
+                                      ],
+                                      "referencedDeclaration": 32,
+                                      "type": "mapping(address => mapping(address => uint256))",
+                                      "value": "allowance"
+                                    },
+                                    "id": 339,
+                                    "name": "Identifier",
+                                    "src": "5557:9:0"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "argumentTypes": null,
+                                      "overloadedDeclarations": [
+                      
