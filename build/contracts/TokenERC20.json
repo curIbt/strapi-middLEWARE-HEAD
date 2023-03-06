@@ -5208,4 +5208,30 @@
                                 null
                               ],
                               "referencedDeclaration": 309,
-                              "
+                              "type": "uint256",
+                              "value": "_value"
+                            },
+                            "id": 349,
+                            "name": "Identifier",
+                            "src": "5672:6:0"
+                          }
+                        ],
+                        "id": 350,
+                        "name": "Assignment",
+                        "src": "5657:21:0"
+                      }
+                    ],
+                    "id": 351,
+                    "name": "ExpressionStatement",
+                    "src": "5657:21:0"
+                  },
+                  {
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": false,
+                          "isStructConstructorCall": false,
+     
