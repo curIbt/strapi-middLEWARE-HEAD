@@ -5257,4 +5257,26 @@
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "
+                              "referencedDeclaration": 46,
+                              "type": "function (address,uint256)",
+                              "value": "Burn"
+                            },
+                            "id": 352,
+                            "name": "Identifier",
+                            "src": "5739:4:0"
+                          },
+                          {
+                            "attributes": {
+                              "argumentTypes": null,
+                              "overloadedDeclarations": [
+                                null
+                              ],
+                              "referencedDeclaration": 307,
+                              "type": "address",
+                              "value": "_from"
+                            },
+                            "id": 353,
+                            "name": "Identifier",
+                            "src": "5744:5:0"
+                          },
+          
