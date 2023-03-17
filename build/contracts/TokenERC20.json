@@ -5304,3 +5304,29 @@
                     "src": "5739:19:0"
                   },
                   {
+                    "attributes": {
+                      "functionReturnParameters": 313
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "argumentTypes": null,
+                          "hexvalue": "74727565",
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": true,
+                          "lValueRequested": false,
+                          "subdenomination": null,
+                          "token": "bool",
+                          "type": "bool",
+                          "value": "true"
+                        },
+                        "id": 357,
+                        "name": "Literal",
+                        "src": "5775:4:0"
+                      }
+                    ],
+                    "id": 358,
+                    "name": "Return",
+                    "src": "5768:11:0"
+               
