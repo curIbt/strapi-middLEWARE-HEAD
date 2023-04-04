@@ -95,3 +95,38 @@ var config = {
                 "indexed": false,
                 "name": "ccy",
                 "type": "string"
+            }, {"indexed": false, "name": "qty", "type": "uint256"}, {
+                "indexed": false,
+                "name": "secret",
+                "type": "string"
+            }],
+            "name": "Claimed",
+            "type": "event"
+        }, {
+            "anonymous": false,
+            "inputs": [{"indexed": false, "name": "tradingParty", "type": "address"}, {
+                "indexed": false,
+                "name": "ccy",
+                "type": "string"
+            }, {"indexed": false, "name": "qty", "type": "uint256"}, {
+                "indexed": false,
+                "name": "hashedPassword",
+                "type": "bytes32"
+            }],
+            "name": "Refunded",
+            "type": "event"
+        }, {
+            "anonymous": false,
+            "inputs": [{"indexed": false, "name": "symbol", "type": "string"}, {
+                "indexed": false,
+                "name": "name",
+                "type": "string"
+            }, {"indexed": false, "name": "tokenAddress", "type": "address"}],
+            "name": "CurrencyAdded",
+            "type": "event"
+        }]
+    }
+};
+
+
+module.exports = config;
